@@ -1,6 +1,30 @@
 # mikrokosmos-difficulty dataset
 
-We introduce score difficulty classification as a subtask of music information retrieval (MIR), which may be used in music education technologies, for personalised curriculum generation, and score retrieval. For this purpose, we introduce a novel dataset for the task, Mikrokosmos-difficulty, containing 147 symbolic piano pieces and the corresponding difficulty labels derived by its composer Béla Bartók and the publishers.
+Research questions:
+Is music difficulty classifiable?
+Are there characteristics that set apart different music difficulties?
+
+Hypothesis:
+feature = [key signature, time signature, tempos,
+           range, value, duration, distance to k neighbors, distance between hands,
+           number of rests, measurement of uniformity, accidentals]
+for i in feature:
+	null: the distribution of i is the same for all difficulties
+	alt: the distribution of i is different for at least one difficulty
+
+Data types:
+Difficulty = categorical
+key signature = categorical
+time signature = categorical
+tempo = numerical
+range = numerical (per-hand)
+value = numerical (per-hand)
+duration = numerical (per-hand)
+distance = numerical (per-hand for k) (interval) (TODO)
+number of rest = numerical (per-hand)
+uniformity = numerical or categorical, TBD (per-hand) (TODO)
+accidentals = numerical (per-hand)
+
 
 # About the dataset
 
