@@ -1,5 +1,6 @@
 [
     {
+        "num_measures": 8,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -48,6 +49,7 @@
         "filename": "1.xml"
     },
     {
+        "num_measures": 24,
         "key_signature": -1,
         "time_signatures": [
             "3/4"
@@ -160,6 +162,7 @@
         "filename": "10.xml"
     },
     {
+        "num_measures": 25,
         "key_signature": -1,
         "time_signatures": [
             "3/8",
@@ -342,6 +345,7 @@
         "filename": "100.xml"
     },
     {
+        "num_measures": 44,
         "key_signature": 2,
         "time_signatures": [
             "2/4"
@@ -610,6 +614,7 @@
         "filename": "101.xml"
     },
     {
+        "num_measures": 44,
         "key_signature": 2,
         "time_signatures": [
             "3/4",
@@ -785,13 +790,14 @@
         "filename": "102.xml"
     },
     {
+        "num_measures": 44,
         "key_signature": 3,
         "time_signatures": [
-            "5/8",
-            "7/8",
-            "9/8",
             "8/8",
-            "6/8"
+            "9/8",
+            "6/8",
+            "5/8",
+            "7/8"
         ],
         "tempos": [
             184,
@@ -1183,6 +1189,7 @@
         "filename": "103.xml"
     },
     {
+        "num_measures": 25,
         "key_signature": 2,
         "time_signatures": [
             "3/4",
@@ -1388,11 +1395,12 @@
         "filename": "104.xml"
     },
     {
+        "num_measures": 47,
         "key_signature": 4,
         "time_signatures": [
+            "4/4",
             "3/4",
-            "2/4",
-            "4/4"
+            "2/4"
         ],
         "tempos": [
             144,
@@ -1587,6 +1595,7 @@
         "filename": "105.xml"
     },
     {
+        "num_measures": 44,
         "key_signature": 2,
         "time_signatures": [
             "2/4"
@@ -1777,6 +1786,7 @@
         "filename": "106.xml"
     },
     {
+        "num_measures": 44,
         "key_signature": -2,
         "time_signatures": [
             "3/4"
@@ -1894,6 +1904,7 @@
         "filename": "107.xml"
     },
     {
+        "num_measures": 33,
         "key_signature": -6,
         "time_signatures": [
             "3/4"
@@ -1921,6 +1932,7 @@
         "filename": "108.xml"
     },
     {
+        "num_measures": 43,
         "key_signature": -2,
         "time_signatures": [
             "4/4",
@@ -2299,6 +2311,7 @@
         "filename": "109.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 1,
         "time_signatures": [
             "4/4"
@@ -2411,6 +2424,7 @@
         "filename": "11.xml"
     },
     {
+        "num_measures": 73,
         "key_signature": 0,
         "time_signatures": [
             "2/4"
@@ -2528,11 +2542,12 @@
         "filename": "110.xml"
     },
     {
+        "num_measures": 55,
         "key_signature": 2,
         "time_signatures": [
-            "3/4",
             "4/4",
-            "5/4"
+            "5/4",
+            "3/4"
         ],
         "tempos": [
             116
@@ -2687,6 +2702,7 @@
         "filename": "111.xml"
     },
     {
+        "num_measures": 60,
         "key_signature": 1,
         "time_signatures": [
             "3/4",
@@ -2841,6 +2857,7 @@
         "filename": "112.xml"
     },
     {
+        "num_measures": 32,
         "key_signature": -1,
         "time_signatures": [
             "7/8"
@@ -3176,11 +3193,12 @@
         "filename": "113.xml"
     },
     {
+        "num_measures": 19,
         "key_signature": 2,
         "time_signatures": [
-            "3/4",
             "4/4",
-            "8/4"
+            "8/4",
+            "3/4"
         ],
         "tempos": [
             80
@@ -3471,6 +3489,7 @@
         "filename": "114.xml"
     },
     {
+        "num_measures": 32,
         "key_signature": 1,
         "time_signatures": [
             "5/8"
@@ -3691,6 +3710,7 @@
         "filename": "115.xml"
     },
     {
+        "num_measures": 43,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -4035,11 +4055,12 @@
         "filename": "116.xml"
     },
     {
+        "num_measures": 28,
         "key_signature": 2,
         "time_signatures": [
-            "3/2",
             "4/4",
-            "5/4"
+            "5/4",
+            "3/2"
         ],
         "tempos": [
             120
@@ -4285,6 +4306,7 @@
         "filename": "117.xml"
     },
     {
+        "num_measures": 34,
         "key_signature": 0,
         "time_signatures": [
             "9/8"
@@ -4768,6 +4790,7 @@
         "filename": "118.xml"
     },
     {
+        "num_measures": 29,
         "key_signature": 5,
         "time_signatures": [
             "3/4"
@@ -4977,10 +5000,11 @@
         "filename": "119.xml"
     },
     {
+        "num_measures": 18,
         "key_signature": 0,
         "time_signatures": [
-            "3/2",
-            "2/2"
+            "2/2",
+            "3/2"
         ],
         "tempos": [
             100
@@ -5120,12 +5144,13 @@
         "filename": "12.xml"
     },
     {
+        "num_measures": 45,
         "key_signature": 0,
         "time_signatures": [
+            "5/4",
             "4/4",
-            "3/2",
             "3/4",
-            "5/4"
+            "3/2"
         ],
         "tempos": [
             160,
@@ -5294,13 +5319,14 @@
         "filename": "120.xml"
     },
     {
+        "num_measures": 25,
         "key_signature": 2,
         "time_signatures": [
-            "4/4",
             "3/2",
             "5/4",
+            "3/4",
             "6/4",
-            "3/4"
+            "4/4"
         ],
         "tempos": [
             108
@@ -5638,6 +5664,7 @@
         "filename": "121.xml"
     },
     {
+        "num_measures": 72,
         "key_signature": 0,
         "time_signatures": [
             "2/4"
@@ -5780,6 +5807,7 @@
         "filename": "122.xml"
     },
     {
+        "num_measures": 52,
         "key_signature": -1,
         "time_signatures": [
             "2/4"
@@ -6113,6 +6141,7 @@
         "filename": "123.xml"
     },
     {
+        "num_measures": 37,
         "key_signature": 2,
         "time_signatures": [
             "4/4"
@@ -6537,6 +6566,7 @@
         "filename": "124.xml"
     },
     {
+        "num_measures": 47,
         "key_signature": -1,
         "time_signatures": [
             "3/4",
@@ -6965,13 +6995,14 @@
         "filename": "125.xml"
     },
     {
+        "num_measures": 35,
         "key_signature": 0,
         "time_signatures": [
-            "3/8",
-            "5/8",
             "2/4",
+            "6/8",
+            "5/8",
             "3/4",
-            "6/8"
+            "3/8"
         ],
         "tempos": [
             250
@@ -7064,6 +7095,7 @@
         "filename": "126.xml"
     },
     {
+        "num_measures": 66,
         "key_signature": -3,
         "time_signatures": [
             "3/4",
@@ -7421,10 +7453,11 @@
         "filename": "128.xml"
     },
     {
+        "num_measures": 60,
         "key_signature": -1,
         "time_signatures": [
-            "2/4",
-            "2/2"
+            "2/2",
+            "2/4"
         ],
         "tempos": [
             160,
@@ -7559,6 +7592,7 @@
         "filename": "129.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 0,
         "time_signatures": [
             "3/4"
@@ -7657,6 +7691,7 @@
         "filename": "13.xml"
     },
     {
+        "num_measures": 37,
         "key_signature": -1,
         "time_signatures": [
             "2/4"
@@ -7956,6 +7991,7 @@
         "filename": "130.xml"
     },
     {
+        "num_measures": 50,
         "key_signature": -6,
         "time_signatures": [
             "2/4"
@@ -8046,10 +8082,11 @@
         "filename": "131.xml"
     },
     {
+        "num_measures": 24,
         "key_signature": 4,
         "time_signatures": [
-            "9/8",
-            "6/8"
+            "6/8",
+            "9/8"
         ],
         "tempos": [
             52
@@ -8176,11 +8213,12 @@
         "filename": "132.xml"
     },
     {
+        "num_measures": 38,
         "key_signature": 2,
         "time_signatures": [
+            "5/4",
             "4/4",
-            "3/4",
-            "5/4"
+            "3/4"
         ],
         "tempos": [
             152
@@ -8499,6 +8537,7 @@
         "filename": "133.xml"
     },
     {
+        "num_measures": 21,
         "key_signature": 2,
         "time_signatures": [
             "4/4"
@@ -8542,6 +8581,7 @@
         "filename": "134.xml"
     },
     {
+        "num_measures": 21,
         "key_signature": 3,
         "time_signatures": [
             "4/4"
@@ -8583,6 +8623,7 @@
         "filename": "135.xml"
     },
     {
+        "num_measures": 81,
         "key_signature": -1,
         "time_signatures": [
             "3/4",
@@ -8788,13 +8829,14 @@
         "filename": "136.xml"
     },
     {
+        "num_measures": 64,
         "key_signature": 2,
         "time_signatures": [
-            "5/8",
-            "7/8",
             "2/4",
+            "6/8",
+            "5/8",
             "3/4",
-            "6/8"
+            "7/8"
         ],
         "tempos": [
             108
@@ -9313,6 +9355,7 @@
         "filename": "137.xml"
     },
     {
+        "num_measures": 77,
         "key_signature": 1,
         "time_signatures": [
             "3/4",
@@ -9747,6 +9790,7 @@
         "filename": "138.xml"
     },
     {
+        "num_measures": 52,
         "key_signature": -1,
         "time_signatures": [
             "2/4"
@@ -10049,6 +10093,7 @@
         "filename": "139.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -10145,16 +10190,17 @@
         "filename": "14.xml"
     },
     {
+        "num_measures": 82,
         "key_signature": -1,
         "time_signatures": [
-            "3/8",
-            "5/8",
-            "7/8",
-            "2/4",
-            "9/8",
             "8/8",
+            "9/8",
+            "2/4",
             "4/8",
-            "6/8"
+            "6/8",
+            "5/8",
+            "3/8",
+            "7/8"
         ],
         "tempos": [
             160,
@@ -10467,13 +10513,14 @@
         "filename": "140.xml"
     },
     {
+        "num_measures": 82,
         "key_signature": -3,
         "time_signatures": [
-            "3/8",
-            "5/8",
-            "7/8",
             "2/4",
-            "3/4"
+            "5/8",
+            "3/4",
+            "3/8",
+            "7/8"
         ],
         "tempos": [
             144,
@@ -10537,6 +10584,7 @@
         "filename": "141.xml"
     },
     {
+        "num_measures": 103,
         "key_signature": -3,
         "time_signatures": [
             "3/4",
@@ -11029,10 +11077,11 @@
         "filename": "142.xml"
     },
     {
+        "num_measures": 80,
         "key_signature": 0,
         "time_signatures": [
-            "2/4",
-            "1/4"
+            "1/4",
+            "2/4"
         ],
         "tempos": [
             88
@@ -11633,11 +11682,12 @@
         "filename": "143.xml"
     },
     {
+        "num_measures": 70,
         "key_signature": -6,
         "time_signatures": [
-            "3/2",
+            "4/4",
             "2/4",
-            "4/4"
+            "3/2"
         ],
         "tempos": [
             56,
@@ -11815,10 +11865,11 @@
         "filename": "144.xml"
     },
     {
+        "num_measures": 50,
         "key_signature": 2,
         "time_signatures": [
-            "2/4",
-            "4/4"
+            "4/4",
+            "2/4"
         ],
         "tempos": [
             144
@@ -12432,6 +12483,7 @@
         "filename": "145.xml"
     },
     {
+        "num_measures": 170,
         "key_signature": -1,
         "time_signatures": [
             "2/4"
@@ -13037,11 +13089,12 @@
         "filename": "146.xml"
     },
     {
+        "num_measures": 57,
         "key_signature": 2,
         "time_signatures": [
-            "3/2",
             "4/4",
-            "5/4"
+            "5/4",
+            "3/2"
         ],
         "tempos": [
             132
@@ -13244,6 +13297,7 @@
         "filename": "147.xml"
     },
     {
+        "num_measures": 60,
         "key_signature": 1,
         "time_signatures": [
             "9/8"
@@ -13573,6 +13627,7 @@
         "filename": "148.xml"
     },
     {
+        "num_measures": 64,
         "key_signature": -1,
         "time_signatures": [
             "7/8"
@@ -14029,6 +14084,7 @@
         "filename": "149.xml"
     },
     {
+        "num_measures": 13,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -14115,6 +14171,7 @@
         "filename": "15.xml"
     },
     {
+        "num_measures": 94,
         "key_signature": 1,
         "time_signatures": [
             "5/8"
@@ -14319,6 +14376,7 @@
         "filename": "150.xml"
     },
     {
+        "num_measures": 66,
         "key_signature": 0,
         "time_signatures": [
             "8/8"
@@ -14752,6 +14810,7 @@
         "filename": "151.xml"
     },
     {
+        "num_measures": 47,
         "key_signature": 3,
         "time_signatures": [
             "9/8"
@@ -15081,6 +15140,7 @@
         "filename": "152.xml"
     },
     {
+        "num_measures": 97,
         "key_signature": -4,
         "time_signatures": [
             "8/8"
@@ -15811,6 +15871,7 @@
         "filename": "153.xml"
     },
     {
+        "num_measures": 22,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -15935,6 +15996,7 @@
         "filename": "16.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 0,
         "time_signatures": [
             "3/4"
@@ -16033,6 +16095,7 @@
         "filename": "17.xml"
     },
     {
+        "num_measures": 10,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -16101,6 +16164,7 @@
         "filename": "18.xml"
     },
     {
+        "num_measures": 13,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -16201,6 +16265,7 @@
         "filename": "19.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -16321,6 +16386,7 @@
         "filename": "2.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 1,
         "time_signatures": [
             "4/4"
@@ -16415,6 +16481,7 @@
         "filename": "20.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 0,
         "time_signatures": [
             "3/4"
@@ -16509,6 +16576,7 @@
         "filename": "21.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -16602,6 +16670,7 @@
         "filename": "22.xml"
     },
     {
+        "num_measures": 12,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -16698,6 +16767,7 @@
         "filename": "23.xml"
     },
     {
+        "num_measures": 24,
         "key_signature": 3,
         "time_signatures": [
             "3/4"
@@ -16822,6 +16892,7 @@
         "filename": "24.xml"
     },
     {
+        "num_measures": 47,
         "key_signature": 0,
         "time_signatures": [
             "2/4"
@@ -17003,6 +17074,7 @@
         "filename": "25.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 2,
         "time_signatures": [
             "4/4"
@@ -17106,6 +17178,7 @@
         "filename": "26.xml"
     },
     {
+        "num_measures": 14,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -17189,6 +17262,7 @@
         "filename": "27.xml"
     },
     {
+        "num_measures": 14,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -17267,6 +17341,7 @@
         "filename": "28.xml"
     },
     {
+        "num_measures": 14,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -17350,6 +17425,7 @@
         "filename": "29.xml"
     },
     {
+        "num_measures": 12,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -17424,6 +17500,7 @@
         "filename": "3.xml"
     },
     {
+        "num_measures": 24,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -17546,6 +17623,7 @@
         "filename": "30.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -17672,6 +17750,7 @@
         "filename": "31.xml"
     },
     {
+        "num_measures": 14,
         "key_signature": 1,
         "time_signatures": [
             "3/2"
@@ -17812,6 +17891,7 @@
         "filename": "32.xml"
     },
     {
+        "num_measures": 15,
         "key_signature": 1,
         "time_signatures": [
             "6/4"
@@ -17969,6 +18049,7 @@
         "filename": "33.xml"
     },
     {
+        "num_measures": 26,
         "key_signature": 0,
         "time_signatures": [
             "2/2"
@@ -18115,6 +18196,7 @@
         "filename": "34.xml"
     },
     {
+        "num_measures": 27,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -18289,6 +18371,7 @@
         "filename": "35.xml"
     },
     {
+        "num_measures": 30,
         "key_signature": 1,
         "time_signatures": [
             "3/4"
@@ -18445,6 +18528,7 @@
         "filename": "36.xml"
     },
     {
+        "num_measures": 32,
         "key_signature": -1,
         "time_signatures": [
             "2/4"
@@ -18610,6 +18694,7 @@
         "filename": "37.xml"
     },
     {
+        "num_measures": 8,
         "key_signature": 2,
         "time_signatures": [
             "3/4"
@@ -18689,6 +18774,7 @@
         "filename": "38.xml"
     },
     {
+        "num_measures": 11,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -18827,6 +18913,7 @@
         "filename": "39.xml"
     },
     {
+        "num_measures": 8,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -18891,6 +18978,7 @@
         "filename": "4.xml"
     },
     {
+        "num_measures": 31,
         "key_signature": 4,
         "time_signatures": [
             "2/4"
@@ -19056,10 +19144,11 @@
         "filename": "40.xml"
     },
     {
+        "num_measures": 14,
         "key_signature": 1,
         "time_signatures": [
-            "9/8",
-            "6/8"
+            "6/8",
+            "9/8"
         ],
         "tempos": [
             44
@@ -19206,6 +19295,7 @@
         "filename": "41.xml"
     },
     {
+        "num_measures": 39,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -19416,6 +19506,7 @@
         "filename": "42.xml"
     },
     {
+        "num_measures": 27,
         "key_signature": -4,
         "time_signatures": [
             "2/4"
@@ -19603,6 +19694,7 @@
         "filename": "45.xml"
     },
     {
+        "num_measures": 28,
         "key_signature": 1,
         "time_signatures": [
             "4/4"
@@ -19756,6 +19848,7 @@
         "filename": "46.xml"
     },
     {
+        "num_measures": 34,
         "key_signature": -1,
         "time_signatures": [
             "2/2"
@@ -19993,6 +20086,7 @@
         "filename": "47.xml"
     },
     {
+        "num_measures": 33,
         "key_signature": 1,
         "time_signatures": [
             "5/4"
@@ -20254,6 +20348,7 @@
         "filename": "48.xml"
     },
     {
+        "num_measures": 10,
         "key_signature": 1,
         "time_signatures": [
             "6/8"
@@ -20388,6 +20483,7 @@
         "filename": "49.xml"
     },
     {
+        "num_measures": 21,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -20518,6 +20614,7 @@
         "filename": "5.xml"
     },
     {
+        "num_measures": 18,
         "key_signature": 0,
         "time_signatures": [
             "3/4"
@@ -20681,6 +20778,7 @@
         "filename": "50.xml"
     },
     {
+        "num_measures": 33,
         "key_signature": 7,
         "time_signatures": [
             "6/8"
@@ -20966,6 +21064,7 @@
         "filename": "51.xml"
     },
     {
+        "num_measures": 8,
         "key_signature": 1,
         "time_signatures": [
             "4/4"
@@ -21059,6 +21158,7 @@
         "filename": "52.xml"
     },
     {
+        "num_measures": 32,
         "key_signature": 0,
         "time_signatures": [
             "2/2"
@@ -21301,6 +21401,7 @@
         "filename": "53.xml"
     },
     {
+        "num_measures": 11,
         "key_signature": 2,
         "time_signatures": [
             "6/8"
@@ -21449,6 +21550,7 @@
         "filename": "54.xml"
     },
     {
+        "num_measures": 12,
         "key_signature": 0,
         "time_signatures": [
             "3/4"
@@ -21467,6 +21569,7 @@
         "filename": "56.xml"
     },
     {
+        "num_measures": 44,
         "key_signature": -1,
         "time_signatures": [
             "2/2"
@@ -21752,6 +21855,7 @@
         "filename": "57.xml"
     },
     {
+        "num_measures": 19,
         "key_signature": 3,
         "time_signatures": [
             "6/8"
@@ -21921,6 +22025,7 @@
         "filename": "58.xml"
     },
     {
+        "num_measures": 18,
         "key_signature": -4,
         "time_signatures": [
             "3/4"
@@ -22071,6 +22176,7 @@
         "filename": "59.xml"
     },
     {
+        "num_measures": 9,
         "key_signature": 1,
         "time_signatures": [
             "4/4"
@@ -22139,10 +22245,11 @@
         "filename": "6.xml"
     },
     {
+        "num_measures": 33,
         "key_signature": 3,
         "time_signatures": [
-            "1/2",
-            "2/2"
+            "2/2",
+            "1/2"
         ],
         "tempos": [
             112
@@ -22183,6 +22290,7 @@
         "filename": "60.xml"
     },
     {
+        "num_measures": 35,
         "key_signature": 0,
         "time_signatures": [
             "2/4"
@@ -22417,6 +22525,7 @@
         "filename": "61.xml"
     },
     {
+        "num_measures": 40,
         "key_signature": 3,
         "time_signatures": [
             "2/4"
@@ -22713,6 +22822,7 @@
         "filename": "62.xml"
     },
     {
+        "num_measures": 17,
         "key_signature": 1,
         "time_signatures": [
             "4/4"
@@ -22924,6 +23034,7 @@
         "filename": "63.xml"
     },
     {
+        "num_measures": 23,
         "key_signature": 0,
         "time_signatures": [
             "2/2"
@@ -22951,6 +23062,7 @@
         "filename": "64.xml"
     },
     {
+        "num_measures": 30,
         "key_signature": 1,
         "time_signatures": [
             "4/4"
@@ -23070,6 +23182,7 @@
         "filename": "66.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -23127,6 +23240,7 @@
         "filename": "67.xml"
     },
     {
+        "num_measures": 40,
         "key_signature": 1,
         "time_signatures": [
             "6/8"
@@ -23249,6 +23363,7 @@
         "filename": "69.xml"
     },
     {
+        "num_measures": 14,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -23329,6 +23444,7 @@
         "filename": "7.xml"
     },
     {
+        "num_measures": 24,
         "key_signature": 2,
         "time_signatures": [
             "3/4"
@@ -23443,10 +23559,11 @@
         "filename": "70.xml"
     },
     {
+        "num_measures": 38,
         "key_signature": -1,
         "time_signatures": [
-            "3/2",
-            "2/2"
+            "2/2",
+            "3/2"
         ],
         "tempos": [
             66
@@ -23539,6 +23656,7 @@
         "filename": "71.xml"
     },
     {
+        "num_measures": 24,
         "key_signature": 0,
         "time_signatures": [
             "2/2"
@@ -23572,6 +23690,7 @@
         "filename": "72.xml"
     },
     {
+        "num_measures": 29,
         "key_signature": 0,
         "time_signatures": [
             "2/4"
@@ -23613,6 +23732,7 @@
         "filename": "73.xml"
     },
     {
+        "num_measures": 34,
         "key_signature": 0,
         "time_signatures": [
             "2/4"
@@ -23729,6 +23849,7 @@
         "filename": "74.xml"
     },
     {
+        "num_measures": 30,
         "key_signature": 0,
         "time_signatures": [
             "3/4",
@@ -23943,6 +24064,7 @@
         "filename": "75.xml"
     },
     {
+        "num_measures": 20,
         "key_signature": -1,
         "time_signatures": [
             "2/2"
@@ -24021,6 +24143,7 @@
         "filename": "76.xml"
     },
     {
+        "num_measures": 18,
         "key_signature": 0,
         "time_signatures": [
             "3/4",
@@ -24278,6 +24401,7 @@
         "filename": "77.xml"
     },
     {
+        "num_measures": 30,
         "key_signature": 1,
         "time_signatures": [
             "2/4"
@@ -24467,6 +24591,7 @@
         "filename": "78.xml"
     },
     {
+        "num_measures": 17,
         "key_signature": 1,
         "time_signatures": [
             "3/4"
@@ -24774,6 +24899,7 @@
         "filename": "79.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": -1,
         "time_signatures": [
             "4/4"
@@ -24862,6 +24988,7 @@
         "filename": "8.xml"
     },
     {
+        "num_measures": 22,
         "key_signature": -3,
         "time_signatures": [
             "2/4"
@@ -25016,6 +25143,7 @@
         "filename": "80.xml"
     },
     {
+        "num_measures": 35,
         "key_signature": 1,
         "time_signatures": [
             "3/4",
@@ -25255,11 +25383,12 @@
         "filename": "81.xml"
     },
     {
+        "num_measures": 25,
         "key_signature": -1,
         "time_signatures": [
-            "3/8",
             "3/4",
             "2/4",
+            "3/8",
             "7/8"
         ],
         "tempos": [
@@ -25320,6 +25449,7 @@
         "filename": "82.xml"
     },
     {
+        "num_measures": 18,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -25440,6 +25570,7 @@
         "filename": "83.xml"
     },
     {
+        "num_measures": 28,
         "key_signature": 2,
         "time_signatures": [
             "4/4"
@@ -25675,6 +25806,7 @@
         "filename": "84.xml"
     },
     {
+        "num_measures": 62,
         "key_signature": 0,
         "time_signatures": [
             "6/8"
@@ -26161,6 +26293,7 @@
         "filename": "85.xml"
     },
     {
+        "num_measures": 36,
         "key_signature": 1,
         "time_signatures": [
             "4/4"
@@ -26334,6 +26467,7 @@
         "filename": "86.xml"
     },
     {
+        "num_measures": 69,
         "key_signature": 0,
         "time_signatures": [
             "3/4",
@@ -26594,6 +26728,7 @@
         "filename": "87.xml"
     },
     {
+        "num_measures": 32,
         "key_signature": -2,
         "time_signatures": [
             "2/4"
@@ -26786,6 +26921,7 @@
         "filename": "88.xml"
     },
     {
+        "num_measures": 21,
         "key_signature": 3,
         "time_signatures": [
             "2/2"
@@ -26817,6 +26953,7 @@
         "filename": "89.xml"
     },
     {
+        "num_measures": 14,
         "key_signature": 0,
         "time_signatures": [
             "4/4"
@@ -26909,6 +27046,7 @@
         "filename": "9.xml"
     },
     {
+        "num_measures": 26,
         "key_signature": -3,
         "time_signatures": [
             "2/2"
@@ -27015,10 +27153,11 @@
         "filename": "90.xml"
     },
     {
+        "num_measures": 17,
         "key_signature": -4,
         "time_signatures": [
-            "3/4",
-            "4/4"
+            "4/4",
+            "3/4"
         ],
         "tempos": [
             72
@@ -27234,10 +27373,11 @@
         "filename": "91.xml"
     },
     {
+        "num_measures": 33,
         "key_signature": 6,
         "time_signatures": [
-            "2/4",
-            "4/4"
+            "4/4",
+            "2/4"
         ],
         "tempos": [
             138
@@ -27736,6 +27876,7 @@
         "filename": "92.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 0,
         "time_signatures": [
             "3/4",
@@ -27758,6 +27899,7 @@
         "filename": "93.xml"
     },
     {
+        "num_measures": 34,
         "key_signature": -1,
         "time_signatures": [
             "3/4",
@@ -27923,6 +28065,7 @@
         "filename": "94.xml"
     },
     {
+        "num_measures": 16,
         "key_signature": 2,
         "time_signatures": [
             "4/4"
@@ -28005,6 +28148,7 @@
         "filename": "95.xml"
     },
     {
+        "num_measures": 34,
         "key_signature": 1,
         "time_signatures": [
             "3/4"
@@ -28287,6 +28431,7 @@
         "filename": "96.xml"
     },
     {
+        "num_measures": 37,
         "key_signature": 0,
         "time_signatures": [
             "6/8"
@@ -28646,6 +28791,7 @@
         "filename": "97.xml"
     },
     {
+        "num_measures": 29,
         "key_signature": -1,
         "time_signatures": [
             "2/4"
@@ -28827,6 +28973,7 @@
         "filename": "98.xml"
     },
     {
+        "num_measures": 23,
         "key_signature": 0,
         "time_signatures": [
             "3/4"

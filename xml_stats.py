@@ -13,14 +13,14 @@ def get_stats(xml_path: str, tokenizer: REMI) -> dict:
 
     key_signature = score.analyze("key").sharps
 
-    time_signatures = set()
+    time_signatures = list()
     tempos = set()
     notes_left = []  # stores list of (pitch, duration) tuples, pitch=rest for rests
     notes_right = []  # NOTE: these are ignored as of now
     for notes, part in zip([notes_left, notes_right], score.parts):
         for measure in part.getElementsByClass(music21.stream.Measure):
             ts = measure.getTimeSignatures()[0].ratioString
-            time_signatures.add(ts)
+            time_signatures.append(ts)
 
             measure_tempos = measure.getElementsByClass(music21.tempo.MetronomeMark)
             [tempos.add(t.number) for t in measure_tempos if t is not None]
@@ -38,6 +38,9 @@ def get_stats(xml_path: str, tokenizer: REMI) -> dict:
                         music21.common.numberTools.numToIntOrFloat(e.quarterLength),
                     )
                     notes.append(n)
+    num_measures = len(time_signatures) // 2
+    time_signatures = set(time_signatures)
+
     pitches_left = [n[0].frequency for n in notes_left if n[0] != "rest"]
     pitches_right = [n[0].frequency for n in notes_right if n[0] != "rest"]
     durations_left = [n[1] for n in notes_left]
@@ -57,6 +60,7 @@ def get_stats(xml_path: str, tokenizer: REMI) -> dict:
         [n for n in notes_right if n[0] != "rest" and n[0].alter != 0]
     )
 
+    stats["num_measures"] = num_measures
     stats["key_signature"] = key_signature
     stats["time_signatures"] = list(time_signatures)
     stats["tempos"] = list(tempos)
