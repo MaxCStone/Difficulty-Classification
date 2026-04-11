@@ -22,16 +22,21 @@ def get_stats(xml_path: str, tokenizer: REMI) -> dict:
             ts = measure.getTimeSignatures()[0].ratioString
             time_signatures.append(ts)
 
-            measure_tempos = measure.getElementsByClass(music21.tempo.MetronomeMark)
+            measure_tempos = measure.recurse().getElementsByClass(
+                music21.tempo.MetronomeMark
+            )
             [tempos.add(t.number) for t in measure_tempos if t is not None]
 
-            for e in measure.notesAndRests:
+            for e in measure.recurse().notesAndRests:
                 if isinstance(e, music21.note.Note):
                     n = (
                         e.pitch,
                         music21.common.numberTools.numToIntOrFloat(e.quarterLength),
                     )
                     notes.append(n)
+                elif isinstance(e, music21.chord.Chord):
+                    for p in e.pitches:
+                        notes.append((p, float(e.quarterLength)))
                 elif isinstance(e, music21.note.Rest):
                     n = (
                         "rest",
