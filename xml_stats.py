@@ -4,8 +4,30 @@ from tokenizer import get_tokenizer
 import numpy as np
 import os
 import json
+from collections import deque
 from tqdm import tqdm
 
+
+def count_non_waits(neighbors):
+    non_waits = 0
+    for n in neighbors:
+        if n[0] != "rest":
+            non_waits += 1
+    return non_waits
+
+def get_distance_k(notes, k):
+    neighbors = deque(maxlen=k)
+    distances = []
+    for note in notes:
+        neighbors.append(note)
+        if len(neighbors) == k:
+            neighbors.popleft()
+        if count_non_waits(neighbors) > 2:
+            distance = max(
+                abs(note[0].frequency - n[0].frequency) for n in neighbors if n[0] != "rest" and note[0] != "rest"
+            )
+            distances.append(distance)
+    return distances
 
 def get_stats(xml_path: str, tokenizer: REMI) -> dict:
     score = music21.converter.parse(xml_path)
@@ -64,6 +86,8 @@ def get_stats(xml_path: str, tokenizer: REMI) -> dict:
     num_accidentals_right = len(
         [n for n in notes_right if n[0] != "rest" and n[0].alter != 0]
     )
+    distance_k_left = get_distance_k(notes_left, 4)
+    distance_k_right = get_distance_k(notes_right, 4)
 
     stats["num_measures"] = num_measures
     stats["key_signature"] = key_signature
@@ -77,22 +101,25 @@ def get_stats(xml_path: str, tokenizer: REMI) -> dict:
     stats["num_rests_right"] = num_rests_right
     stats["num_accidentals_left"] = num_accidentals_left
     stats["num_accidentals_right"] = num_accidentals_right
-
+    stats["distance_k_left"] = distance_k_left
+    stats["distance_k_right"] = distance_k_right
+    print(distance_k_left)
     return stats
 
 
 def main():
     results = []
     tokenizer = get_tokenizer()
-    for xml_path in tqdm(os.listdir("musicxml")):
-        full_xml_path = os.path.join("musicxml", xml_path)
-        stats = get_stats(full_xml_path, tokenizer)
-        stats["filename"] = xml_path
-        results.append(stats)
-        # print(stats)
-
-    with open("stats.json", "w") as fp:
-        json.dump(results, fp, indent=4)
+    
+    test_path = "C:\\Users\\stonemc\\OneDrive - Milwaukee School of Engineering\\Documents\\CSC 2621\\Final Project\\Difficulty-Classification\\musicxml\\1.xml"
+    stats = get_stats(test_path, tokenizer)
+    
+    # for xml_path in tqdm(os.listdir("musicxml")):
+    #     full_xml_path = os.path.join("musicxml", xml_path)
+    #     stats = get_stats(full_xml_path, tokenizer)
+    #     stats["filename"] = xml_path
+    #     results.append(stats)
+    #     # print(stats)
 
 
 if __name__ == "__main__":
