@@ -29,6 +29,13 @@ def get_distance_k(notes, k):
             distances.append(distance)
     return distances
 
+def variance(distances):
+    mean = sum(distances) / len(distances)
+    variance = sum((d - mean) ** 2 for d in distances) / len(distances)
+    return variance
+
+    
+
 def get_stats(xml_path: str, tokenizer: REMI) -> dict:
     score = music21.converter.parse(xml_path)
     stats = {}
@@ -88,22 +95,28 @@ def get_stats(xml_path: str, tokenizer: REMI) -> dict:
     )
     distance_k_left = get_distance_k(notes_left, 4)
     distance_k_right = get_distance_k(notes_right, 4)
+    variance_left = variance(distance_k_left)
+    variance_right = variance(distance_k_right)
+    variance_diff = abs(variance_left - variance_right)
+    
 
-    stats["num_measures"] = num_measures
+    stats["durations_left"] = durations_left
+    stats["durations_right"] = durations_right
+    stats["distance_k_left"] = distance_k_left
+    stats["distance_k_right"] = distance_k_right
     stats["key_signature"] = key_signature
     stats["time_signatures"] = list(time_signatures)
     stats["tempos"] = list(tempos)
-    stats["durations_left"] = durations_left
-    stats["durations_right"] = durations_right
     stats["note_range_left"] = note_range_left
     stats["note_range_right"] = note_range_right
-    stats["num_rests_left"] = num_rests_left
-    stats["num_rests_right"] = num_rests_right
     stats["num_accidentals_left"] = num_accidentals_left
     stats["num_accidentals_right"] = num_accidentals_right
-    stats["distance_k_left"] = distance_k_left
-    stats["distance_k_right"] = distance_k_right
-    print(distance_k_left)
+    stats["num_rests_left"] = num_rests_left
+    stats["num_rests_right"] = num_rests_right
+    stats["num_measures"] = num_measures
+    stats["variance_left"] = variance_left
+    stats["variance_right"] = variance_right
+    stats["variance_diff"] = variance_diff
     return stats
 
 
@@ -111,15 +124,14 @@ def main():
     results = []
     tokenizer = get_tokenizer()
     
-    test_path = "C:\\Users\\stonemc\\OneDrive - Milwaukee School of Engineering\\Documents\\CSC 2621\\Final Project\\Difficulty-Classification\\musicxml\\1.xml"
-    stats = get_stats(test_path, tokenizer)
-    
-    # for xml_path in tqdm(os.listdir("musicxml")):
-    #     full_xml_path = os.path.join("musicxml", xml_path)
-    #     stats = get_stats(full_xml_path, tokenizer)
-    #     stats["filename"] = xml_path
-    #     results.append(stats)
-    #     # print(stats)
+    for xml_path in tqdm(os.listdir("musicxml")):
+        full_xml_path = os.path.join("musicxml", xml_path)
+        stats = get_stats(full_xml_path, tokenizer)
+        stats["filename"] = xml_path
+        results.append(stats)
+        # print(stats)
+    with open("stats.json", "w") as f:
+        json.dump(results, f, indent=4)
 
 
 if __name__ == "__main__":

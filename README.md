@@ -22,7 +22,7 @@ value = numerical (per-hand)
 duration = numerical (per-hand)
 distance = numerical (per-hand for k) (interval)
 number of rest = numerical (per-hand)
-uniformity = numerical or categorical, TBD (per-hand) (TODO)
+variance = numerical or categorical, TBD (per-hand & difference) (Originally was uniformity, changed to variance)
 accidentals = numerical (per-hand)
 
 
