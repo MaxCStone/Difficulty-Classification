@@ -4,8 +4,9 @@ from tokenizer import get_tokenizer
 import numpy as np
 import os
 import json
-from collections import deque
+from collections import deque, Counter
 from tqdm import tqdm
+import math
 
 
 def count_non_waits(neighbors):
@@ -29,12 +30,45 @@ def get_distance_k(notes, k):
             distances.append(distance)
     return distances
 
-def variance(distances):
-    mean = sum(distances) / len(distances)
-    variance = sum((d - mean) ** 2 for d in distances) / len(distances)
-    return variance
+def get_note_sequences(notes, min_length=1, max_length=10):
+    """
+    Collect all subsequences of notes from min_length to max_length.
+    Returns a Counter with sequence frequencies.
+    """
+    sequences = Counter()
 
-    
+    for length in range(min_length, max_length + 1):
+        for start in range(len(notes) - length + 1):
+            # Extract subsequence (store as tuple for hashability)
+            sequence = tuple(notes[start:start + length])
+            sequences[sequence] += 1
+
+    return sequences
+
+def calculate_uniformity(sequences):
+    """
+    Calculate uniformity using Shannon entropy.
+    Higher entropy = more uniform (more variety in sequences)
+    Lower entropy = less uniform (repeated patterns)
+    """
+    if not sequences:
+        return 0
+
+    uniformity_scaler = 0.2 # calculated scalar based on the results from unscaled values
+
+    total = sum(sequences.values())
+    frequencies = [count / total for count in sequences.values()]
+
+    # Shannon entropy: -sum(p * log(p))
+    entropy = -sum(p * math.log(p) for p in frequencies if p > 0)
+
+    # Normalize by max possible entropy for this distribution
+    max_entropy = math.log(len(sequences))
+    if max_entropy == 0:
+        return 1.0
+
+    normalized_uniformity = entropy / max_entropy
+    return normalized_uniformity * uniformity_scaler
 
 def get_stats(xml_path: str, tokenizer: REMI) -> dict:
     score = music21.converter.parse(xml_path)
@@ -95,10 +129,11 @@ def get_stats(xml_path: str, tokenizer: REMI) -> dict:
     )
     distance_k_left = get_distance_k(notes_left, 4)
     distance_k_right = get_distance_k(notes_right, 4)
-    variance_left = variance(distance_k_left)
-    variance_right = variance(distance_k_right)
-    variance_diff = abs(variance_left - variance_right)
-    
+
+    sequences_left = get_note_sequences(notes_left)
+    sequences_right = get_note_sequences(notes_right)
+    uniformity_left = calculate_uniformity(sequences_left)
+    uniformity_right = calculate_uniformity(sequences_right)
 
     stats["durations_left"] = durations_left
     stats["durations_right"] = durations_right
@@ -114,9 +149,10 @@ def get_stats(xml_path: str, tokenizer: REMI) -> dict:
     stats["num_rests_left"] = num_rests_left
     stats["num_rests_right"] = num_rests_right
     stats["num_measures"] = num_measures
-    stats["variance_left"] = variance_left
-    stats["variance_right"] = variance_right
-    stats["variance_diff"] = variance_diff
+    stats["uniformity_left"] = uniformity_left
+    stats["uniformity_right"] = uniformity_right
+    stats["num_unique_sequences_left"] = len(sequences_left)
+    stats["num_unique_sequences_right"] = len(sequences_right)
     return stats
 
 

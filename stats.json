@@ -68,9 +68,10 @@
         "num_rests_left": 1,
         "num_rests_right": 1,
         "num_measures": 8,
-        "variance_left": 821.0551621292818,
-        "variance_right": 51.31594763307999,
-        "variance_diff": 769.7392144962018,
+        "uniformity_left": 0.1978301117074095,
+        "uniformity_right": 0.1978301117074095,
+        "num_unique_sequences_left": 86,
+        "num_unique_sequences_right": 86,
         "filename": "1.xml"
     },
     {
@@ -230,9 +231,10 @@
         "num_rests_left": 16,
         "num_rests_right": 16,
         "num_measures": 24,
-        "variance_left": 219.54843049810424,
-        "variance_right": 77.67323546463282,
-        "variance_diff": 141.8751950334714,
+        "uniformity_left": 0.1954808144357466,
+        "uniformity_right": 0.19523720402105338,
+        "num_unique_sequences_left": 334,
+        "num_unique_sequences_right": 365,
         "filename": "10.xml"
     },
     {
@@ -591,8 +593,8 @@
         ],
         "key_signature": -1,
         "time_signatures": [
-            "3/8",
-            "5/8"
+            "5/8",
+            "3/8"
         ],
         "tempos": [
             152
@@ -604,9 +606,10 @@
         "num_rests_left": 21,
         "num_rests_right": 16,
         "num_measures": 25,
-        "variance_left": 5983.7496801654925,
-        "variance_right": 1230.453634340088,
-        "variance_diff": 4753.296045825405,
+        "uniformity_left": 0.1968986696230469,
+        "uniformity_right": 0.1979835071134376,
+        "num_unique_sequences_left": 936,
+        "num_unique_sequences_right": 930,
         "filename": "100.xml"
     },
     {
@@ -1093,9 +1096,10 @@
         "num_rests_left": 7,
         "num_rests_right": 10,
         "num_measures": 44,
-        "variance_left": 754.6355201430828,
-        "variance_right": 1119.4690764458578,
-        "variance_diff": 364.83355630277504,
+        "uniformity_left": 0.19595823823760924,
+        "uniformity_right": 0.19690163483029105,
+        "num_unique_sequences_left": 1078,
+        "num_unique_sequences_right": 1046,
         "filename": "101.xml"
     },
     {
@@ -1910,8 +1914,8 @@
         ],
         "key_signature": 2,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             98,
@@ -1926,9 +1930,10 @@
         "num_rests_left": 16,
         "num_rests_right": 5,
         "num_measures": 44,
-        "variance_left": 28926.22549084328,
-        "variance_right": 1382.9059444825439,
-        "variance_diff": 27543.319546360737,
+        "uniformity_left": 0.19861487943913156,
+        "uniformity_right": 0.18436184523043694,
+        "num_unique_sequences_left": 2432,
+        "num_unique_sequences_right": 785,
         "filename": "102.xml"
     },
     {
@@ -2641,11 +2646,11 @@
         ],
         "key_signature": 3,
         "time_signatures": [
-            "8/8",
-            "5/8",
-            "7/8",
             "9/8",
-            "6/8"
+            "7/8",
+            "6/8",
+            "8/8",
+            "5/8"
         ],
         "tempos": [
             184,
@@ -2658,9 +2663,10 @@
         "num_rests_left": 10,
         "num_rests_right": 13,
         "num_measures": 44,
-        "variance_left": 1214.759064516873,
-        "variance_right": 508.73467603421255,
-        "variance_diff": 706.0243884826605,
+        "uniformity_left": 0.19184224975862976,
+        "uniformity_right": 0.19100151984058317,
+        "num_unique_sequences_left": 1328,
+        "num_unique_sequences_right": 1326,
         "filename": "103.xml"
     },
     {
@@ -3018,8 +3024,8 @@
         ],
         "key_signature": 2,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             102
@@ -3031,9 +3037,10 @@
         "num_rests_left": 4,
         "num_rests_right": 4,
         "num_measures": 25,
-        "variance_left": 2092.5436971168556,
-        "variance_right": 523.1359242792133,
-        "variance_diff": 1569.4077728376424,
+        "uniformity_left": 0.19748260834887532,
+        "uniformity_right": 0.1974727422525978,
+        "num_unique_sequences_left": 787,
+        "num_unique_sequences_right": 786,
         "filename": "104.xml"
     },
     {
@@ -3654,9 +3661,9 @@
         ],
         "key_signature": 4,
         "time_signatures": [
-            "3/4",
+            "4/4",
             "2/4",
-            "4/4"
+            "3/4"
         ],
         "tempos": [
             144,
@@ -3669,9 +3676,10 @@
         "num_rests_left": 10,
         "num_rests_right": 7,
         "num_measures": 47,
-        "variance_left": 2385.713343069486,
-        "variance_right": 1794.4486318123872,
-        "variance_diff": 591.264711257099,
+        "uniformity_left": 0.19530820963689888,
+        "uniformity_right": 0.19422415387260883,
+        "num_unique_sequences_left": 1416,
+        "num_unique_sequences_right": 1226,
         "filename": "105.xml"
     },
     {
@@ -4118,9 +4126,10 @@
         "num_rests_left": 13,
         "num_rests_right": 7,
         "num_measures": 44,
-        "variance_left": 2742.4877759191922,
-        "variance_right": 581.0503991993704,
-        "variance_diff": 2161.4373767198217,
+        "uniformity_left": 0.1974584698807507,
+        "uniformity_right": 0.19779672291094427,
+        "num_unique_sequences_left": 1021,
+        "num_unique_sequences_right": 1004,
         "filename": "106.xml"
     },
     {
@@ -4638,9 +4647,10 @@
         "num_rests_left": 27,
         "num_rests_right": 35,
         "num_measures": 44,
-        "variance_left": 12220.304670121179,
-        "variance_right": 1212.0284510151287,
-        "variance_diff": 11008.27621910605,
+        "uniformity_left": 0.1934046524095,
+        "uniformity_right": 0.18847228227529478,
+        "num_unique_sequences_left": 1175,
+        "num_unique_sequences_right": 972,
         "filename": "107.xml"
     },
     {
@@ -5334,9 +5344,10 @@
         "num_rests_left": 47,
         "num_rests_right": 45,
         "num_measures": 33,
-        "variance_left": 1076.0089290792816,
-        "variance_right": 314.44856079545303,
-        "variance_diff": 761.5603682838287,
+        "uniformity_left": 0.19571545772053642,
+        "uniformity_right": 0.19572062587098554,
+        "num_unique_sequences_left": 1903,
+        "num_unique_sequences_right": 1883,
         "filename": "108.xml"
     },
     {
@@ -6118,9 +6129,10 @@
         "num_rests_left": 20,
         "num_rests_right": 21,
         "num_measures": 43,
-        "variance_left": 16192.524839851605,
-        "variance_right": 2524.543961667135,
-        "variance_diff": 13667.98087818447,
+        "uniformity_left": 0.1968177136375292,
+        "uniformity_right": 0.1961752987232226,
+        "num_unique_sequences_left": 1969,
+        "num_unique_sequences_right": 1570,
         "filename": "109.xml"
     },
     {
@@ -6314,9 +6326,10 @@
         "num_rests_left": 2,
         "num_rests_right": 2,
         "num_measures": 16,
-        "variance_left": 494.2710252861819,
-        "variance_right": 161.18113196178174,
-        "variance_diff": 333.0898933244001,
+        "uniformity_left": 0.19417574877907906,
+        "uniformity_right": 0.19417574877907906,
+        "num_unique_sequences_left": 300,
+        "num_unique_sequences_right": 300,
         "filename": "11.xml"
     },
     {
@@ -7446,9 +7459,10 @@
         "num_rests_left": 36,
         "num_rests_right": 36,
         "num_measures": 73,
-        "variance_left": 1897.323035299473,
-        "variance_right": 1473.8640858559327,
-        "variance_diff": 423.4589494435404,
+        "uniformity_left": 0.18830526389250268,
+        "uniformity_right": 0.1765754654720336,
+        "num_unique_sequences_left": 1767,
+        "num_unique_sequences_right": 1213,
         "filename": "110.xml"
     },
     {
@@ -7967,9 +7981,9 @@
         ],
         "key_signature": 2,
         "time_signatures": [
-            "3/4",
+            "4/4",
             "5/4",
-            "4/4"
+            "3/4"
         ],
         "tempos": [
             116
@@ -7981,9 +7995,10 @@
         "num_rests_left": 11,
         "num_rests_right": 16,
         "num_measures": 55,
-        "variance_left": 6898.946165539923,
-        "variance_right": 1200.2510167964952,
-        "variance_diff": 5698.695148743427,
+        "uniformity_left": 0.19698710456310345,
+        "uniformity_right": 0.19865982236986685,
+        "num_unique_sequences_left": 1267,
+        "num_unique_sequences_right": 1269,
         "filename": "111.xml"
     },
     {
@@ -9093,8 +9108,8 @@
         ],
         "key_signature": 1,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             120,
@@ -9108,9 +9123,10 @@
         "num_rests_left": 36,
         "num_rests_right": 28,
         "num_measures": 60,
-        "variance_left": 9675.639340553622,
-        "variance_right": 979.1612926117047,
-        "variance_diff": 8696.478047941917,
+        "uniformity_left": 0.19233104113163546,
+        "uniformity_right": 0.19185436015764093,
+        "num_unique_sequences_left": 2308,
+        "num_unique_sequences_right": 2140,
         "filename": "112.xml"
     },
     {
@@ -9645,9 +9661,10 @@
         "num_rests_left": 40,
         "num_rests_right": 27,
         "num_measures": 32,
-        "variance_left": 6586.6020125647665,
-        "variance_right": 216.22308774563183,
-        "variance_diff": 6370.378924819134,
+        "uniformity_left": 0.19174117043172517,
+        "uniformity_right": 0.1726992671511418,
+        "num_unique_sequences_left": 849,
+        "num_unique_sequences_right": 535,
         "filename": "113.xml"
     },
     {
@@ -10138,9 +10155,9 @@
         ],
         "key_signature": 2,
         "time_signatures": [
-            "3/4",
             "4/4",
-            "8/4"
+            "8/4",
+            "3/4"
         ],
         "tempos": [
             80
@@ -10152,9 +10169,10 @@
         "num_rests_left": 18,
         "num_rests_right": 19,
         "num_measures": 19,
-        "variance_left": 1686.994157561885,
-        "variance_right": 1586.3633911639383,
-        "variance_diff": 100.63076639794667,
+        "uniformity_left": 0.1983122526063168,
+        "uniformity_right": 0.19881894535077096,
+        "num_unique_sequences_left": 1284,
+        "num_unique_sequences_right": 1308,
         "filename": "114.xml"
     },
     {
@@ -10565,9 +10583,10 @@
         "num_rests_left": 7,
         "num_rests_right": 22,
         "num_measures": 32,
-        "variance_left": 1736.7710623221676,
-        "variance_right": 1910.376766670931,
-        "variance_diff": 173.6057043487633,
+        "uniformity_left": 0.1932017076184212,
+        "uniformity_right": 0.1980792080934258,
+        "num_unique_sequences_left": 880,
+        "num_unique_sequences_right": 894,
         "filename": "115.xml"
     },
     {
@@ -11409,9 +11428,10 @@
         "num_rests_left": 28,
         "num_rests_right": 11,
         "num_measures": 43,
-        "variance_left": 2697.546058250878,
-        "variance_right": 721.0518162283698,
-        "variance_diff": 1976.4942420225084,
+        "uniformity_left": 0.19610373298346884,
+        "uniformity_right": 0.19821967355406145,
+        "num_unique_sequences_left": 1881,
+        "num_unique_sequences_right": 1893,
         "filename": "116.xml"
     },
     {
@@ -12144,8 +12164,8 @@
         ],
         "key_signature": 2,
         "time_signatures": [
-            "5/4",
             "4/4",
+            "5/4",
             "3/2"
         ],
         "tempos": [
@@ -12158,9 +12178,10 @@
         "num_rests_left": 14,
         "num_rests_right": 13,
         "num_measures": 28,
-        "variance_left": 3328.433534365845,
-        "variance_right": 1384.9556961958974,
-        "variance_diff": 1943.4778381699475,
+        "uniformity_left": 0.19677797048509638,
+        "uniformity_right": 0.19673050111476997,
+        "num_unique_sequences_left": 1572,
+        "num_unique_sequences_right": 1768,
         "filename": "117.xml"
     },
     {
@@ -12973,9 +12994,10 @@
         "num_rests_left": 59,
         "num_rests_right": 52,
         "num_measures": 34,
-        "variance_left": 957.5885104502854,
-        "variance_right": 245.64613141792128,
-        "variance_diff": 711.9423790323641,
+        "uniformity_left": 0.19516914986234785,
+        "uniformity_right": 0.1956899277833717,
+        "num_unique_sequences_left": 2048,
+        "num_unique_sequences_right": 2007,
         "filename": "118.xml"
     },
     {
@@ -13358,9 +13380,10 @@
         "num_rests_left": 10,
         "num_rests_right": 8,
         "num_measures": 29,
-        "variance_left": 3170.553255415832,
-        "variance_right": 1686.8055376662653,
-        "variance_diff": 1483.7477177495668,
+        "uniformity_left": 0.19858813483243742,
+        "uniformity_right": 0.19910156991480676,
+        "num_unique_sequences_left": 904,
+        "num_unique_sequences_right": 901,
         "filename": "119.xml"
     },
     {
@@ -13617,9 +13640,10 @@
         "num_rests_left": 3,
         "num_rests_right": 5,
         "num_measures": 18,
-        "variance_left": 377.2081272419943,
-        "variance_right": 69.99399985290817,
-        "variance_diff": 307.2141273890861,
+        "uniformity_left": 0.1898043925464773,
+        "uniformity_right": 0.19080390068225125,
+        "num_unique_sequences_left": 335,
+        "num_unique_sequences_right": 356,
         "filename": "12.xml"
     },
     {
@@ -14627,9 +14651,9 @@
         ],
         "key_signature": 0,
         "time_signatures": [
-            "3/4",
-            "5/4",
             "4/4",
+            "5/4",
+            "3/4",
             "3/2"
         ],
         "tempos": [
@@ -14646,9 +14670,10 @@
         "num_rests_left": 27,
         "num_rests_right": 40,
         "num_measures": 45,
-        "variance_left": 8273.389293230857,
-        "variance_right": 4419.481553787942,
-        "variance_diff": 3853.907739442915,
+        "uniformity_left": 0.19471128868075904,
+        "uniformity_right": 0.19522111669190528,
+        "num_unique_sequences_left": 2438,
+        "num_unique_sequences_right": 2252,
         "filename": "120.xml"
     },
     {
@@ -15263,11 +15288,11 @@
         ],
         "key_signature": 2,
         "time_signatures": [
-            "5/4",
+            "3/2",
+            "6/4",
             "3/4",
             "4/4",
-            "6/4",
-            "3/2"
+            "5/4"
         ],
         "tempos": [
             108
@@ -15279,9 +15304,10 @@
         "num_rests_left": 9,
         "num_rests_right": 6,
         "num_measures": 25,
-        "variance_left": 3941.0182000861237,
-        "variance_right": 554.894728910519,
-        "variance_diff": 3386.1234711756047,
+        "uniformity_left": 0.19795887679159146,
+        "uniformity_right": 0.19471423290837775,
+        "num_unique_sequences_left": 1293,
+        "num_unique_sequences_right": 1266,
         "filename": "121.xml"
     },
     {
@@ -17282,9 +17308,10 @@
         "num_rests_left": 59,
         "num_rests_right": 63,
         "num_measures": 72,
-        "variance_left": 11656.86791220299,
-        "variance_right": 2084.4919295956056,
-        "variance_diff": 9572.375982607384,
+        "uniformity_left": 0.18779288360292878,
+        "uniformity_right": 0.18917666839579206,
+        "num_unique_sequences_left": 3295,
+        "num_unique_sequences_right": 3133,
         "filename": "122.xml"
     },
     {
@@ -17867,9 +17894,10 @@
         "num_rests_left": 19,
         "num_rests_right": 20,
         "num_measures": 52,
-        "variance_left": 1289.7897154691086,
-        "variance_right": 192.12351372502616,
-        "variance_diff": 1097.6662017440824,
+        "uniformity_left": 0.1964397552640016,
+        "uniformity_right": 0.19687130897974836,
+        "num_unique_sequences_left": 1323,
+        "num_unique_sequences_right": 1340,
         "filename": "123.xml"
     },
     {
@@ -18591,9 +18619,10 @@
         "num_rests_left": 82,
         "num_rests_right": 66,
         "num_measures": 37,
-        "variance_left": 5891.861123868929,
-        "variance_right": 236.00130823266693,
-        "variance_diff": 5655.859815636262,
+        "uniformity_left": 0.18729398663486052,
+        "uniformity_right": 0.18678419771933885,
+        "num_unique_sequences_left": 1634,
+        "num_unique_sequences_right": 1599,
         "filename": "124.xml"
     },
     {
@@ -19382,8 +19411,8 @@
         ],
         "key_signature": -1,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             116
@@ -19395,9 +19424,10 @@
         "num_rests_left": 27,
         "num_rests_right": 35,
         "num_measures": 47,
-        "variance_left": 9477.201914502513,
-        "variance_right": 1901.7316158737856,
-        "variance_diff": 7575.4702986287275,
+        "uniformity_left": 0.19649905037151094,
+        "uniformity_right": 0.1811088850431779,
+        "num_unique_sequences_left": 1765,
+        "num_unique_sequences_right": 1310,
         "filename": "125.xml"
     },
     {
@@ -20151,10 +20181,10 @@
         "key_signature": 0,
         "time_signatures": [
             "3/4",
-            "3/8",
             "2/4",
+            "6/8",
             "5/8",
-            "6/8"
+            "3/8"
         ],
         "tempos": [
             250
@@ -20166,9 +20196,10 @@
         "num_rests_left": 30,
         "num_rests_right": 17,
         "num_measures": 35,
-        "variance_left": 9429.325280894955,
-        "variance_right": 1382.0662816779854,
-        "variance_diff": 8047.258999216969,
+        "uniformity_left": 0.19506831698915184,
+        "uniformity_right": 0.19540126749912076,
+        "num_unique_sequences_left": 1718,
+        "num_unique_sequences_right": 1492,
         "filename": "126.xml"
     },
     {
@@ -21050,8 +21081,8 @@
         ],
         "key_signature": -3,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             112,
@@ -21065,9 +21096,10 @@
         "num_rests_left": 10,
         "num_rests_right": 6,
         "num_measures": 66,
-        "variance_left": 4448.688506903123,
-        "variance_right": 1275.3783254184216,
-        "variance_diff": 3173.3101814847014,
+        "uniformity_left": 0.19598237194163165,
+        "uniformity_right": 0.19814074917882435,
+        "num_unique_sequences_left": 1903,
+        "num_unique_sequences_right": 1876,
         "filename": "128.xml"
     },
     {
@@ -22206,8 +22238,8 @@
         ],
         "key_signature": -1,
         "time_signatures": [
-            "2/4",
-            "2/2"
+            "2/2",
+            "2/4"
         ],
         "tempos": [
             160,
@@ -22220,9 +22252,10 @@
         "num_rests_left": 55,
         "num_rests_right": 66,
         "num_measures": 60,
-        "variance_left": 4937.771700802235,
-        "variance_right": 2845.42923133676,
-        "variance_diff": 2092.3424694654746,
+        "uniformity_left": 0.18861620285417113,
+        "uniformity_right": 0.18862127658236383,
+        "num_unique_sequences_left": 1835,
+        "num_unique_sequences_right": 2042,
         "filename": "129.xml"
     },
     {
@@ -22376,9 +22409,10 @@
         "num_rests_left": 4,
         "num_rests_right": 4,
         "num_measures": 16,
-        "variance_left": 301.7528173550735,
-        "variance_right": 24.744785877896792,
-        "variance_diff": 277.0080314771767,
+        "uniformity_left": 0.19675782278790047,
+        "uniformity_right": 0.19671181626350953,
+        "num_unique_sequences_left": 281,
+        "num_unique_sequences_right": 278,
         "filename": "13.xml"
     },
     {
@@ -23082,9 +23116,10 @@
         "num_rests_left": 28,
         "num_rests_right": 20,
         "num_measures": 37,
-        "variance_left": 13075.487851334492,
-        "variance_right": 855.9431821999702,
-        "variance_diff": 12219.544669134522,
+        "uniformity_left": 0.19774962648320596,
+        "uniformity_right": 0.1966938070442073,
+        "num_unique_sequences_left": 1948,
+        "num_unique_sequences_right": 1535,
         "filename": "130.xml"
     },
     {
@@ -24122,9 +24157,10 @@
         "num_rests_left": 32,
         "num_rests_right": 34,
         "num_measures": 50,
-        "variance_left": 9118.603481303067,
-        "variance_right": 956.8414655896116,
-        "variance_diff": 8161.762015713456,
+        "uniformity_left": 0.19265412098322446,
+        "uniformity_right": 0.19366228943947594,
+        "num_unique_sequences_left": 2031,
+        "num_unique_sequences_right": 2051,
         "filename": "131.xml"
     },
     {
@@ -24714,9 +24750,10 @@
         "num_rests_left": 22,
         "num_rests_right": 11,
         "num_measures": 24,
-        "variance_left": 970.9332411545673,
-        "variance_right": 614.1439207789028,
-        "variance_diff": 356.7893203756645,
+        "uniformity_left": 0.19794324687713813,
+        "uniformity_right": 0.19837046265501293,
+        "num_unique_sequences_left": 1509,
+        "num_unique_sequences_right": 1326,
         "filename": "132.xml"
     },
     {
@@ -25596,9 +25633,9 @@
         ],
         "key_signature": 2,
         "time_signatures": [
-            "3/4",
+            "4/4",
             "5/4",
-            "4/4"
+            "3/4"
         ],
         "tempos": [
             152
@@ -25610,9 +25647,10 @@
         "num_rests_left": 82,
         "num_rests_right": 99,
         "num_measures": 38,
-        "variance_left": 5125.953897885507,
-        "variance_right": 1628.3083649344712,
-        "variance_diff": 3497.645532951036,
+        "uniformity_left": 0.19472791683454369,
+        "uniformity_right": 0.1942499596680209,
+        "num_unique_sequences_left": 2712,
+        "num_unique_sequences_right": 2480,
         "filename": "133.xml"
     },
     {
@@ -26773,9 +26811,10 @@
         "num_rests_left": 15,
         "num_rests_right": 14,
         "num_measures": 21,
-        "variance_left": 3084.9808656890814,
-        "variance_right": 1372.016809945757,
-        "variance_diff": 1712.9640557433245,
+        "uniformity_left": 0.19590395805613264,
+        "uniformity_right": 0.19601652113354878,
+        "num_unique_sequences_left": 2279,
+        "num_unique_sequences_right": 2299,
         "filename": "134.xml"
     },
     {
@@ -27925,9 +27964,10 @@
         "num_rests_left": 15,
         "num_rests_right": 21,
         "num_measures": 21,
-        "variance_left": 2434.151556776519,
-        "variance_right": 267.62217425070094,
-        "variance_diff": 2166.529382525818,
+        "uniformity_left": 0.19128025105542953,
+        "uniformity_right": 0.1916937556577378,
+        "num_unique_sequences_left": 1780,
+        "num_unique_sequences_right": 1827,
         "filename": "135.xml"
     },
     {
@@ -28998,8 +29038,8 @@
         ],
         "key_signature": -1,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             138,
@@ -29012,9 +29052,10 @@
         "num_rests_left": 6,
         "num_rests_right": 15,
         "num_measures": 81,
-        "variance_left": 8032.379871592117,
-        "variance_right": 3405.182796112713,
-        "variance_diff": 4627.197075479404,
+        "uniformity_left": 0.1944329623817808,
+        "uniformity_right": 0.1974805909702374,
+        "num_unique_sequences_left": 2190,
+        "num_unique_sequences_right": 2273,
         "filename": "136.xml"
     },
     {
@@ -30059,9 +30100,9 @@
         "time_signatures": [
             "3/4",
             "2/4",
-            "5/8",
             "7/8",
-            "6/8"
+            "6/8",
+            "5/8"
         ],
         "tempos": [
             108
@@ -30073,9 +30114,10 @@
         "num_rests_left": 24,
         "num_rests_right": 3,
         "num_measures": 64,
-        "variance_left": 30016.820697032654,
-        "variance_right": 1822.3664971301155,
-        "variance_diff": 28194.45419990254,
+        "uniformity_left": 0.19608441362341036,
+        "uniformity_right": 0.19513012623293652,
+        "num_unique_sequences_left": 2223,
+        "num_unique_sequences_right": 2314,
         "filename": "137.xml"
     },
     {
@@ -31777,8 +31819,8 @@
         ],
         "key_signature": 1,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             144,
@@ -31791,9 +31833,10 @@
         "num_rests_left": 5,
         "num_rests_right": 7,
         "num_measures": 77,
-        "variance_left": 5608.635681599233,
-        "variance_right": 1782.913143927263,
-        "variance_diff": 3825.72253767197,
+        "uniformity_left": 0.19106691094160605,
+        "uniformity_right": 0.18962588978010067,
+        "num_unique_sequences_left": 2951,
+        "num_unique_sequences_right": 1953,
         "filename": "138.xml"
     },
     {
@@ -32564,9 +32607,10 @@
         "num_rests_left": 22,
         "num_rests_right": 19,
         "num_measures": 52,
-        "variance_left": 33616.7806642121,
-        "variance_right": 2539.968862578624,
-        "variance_diff": 31076.811801633477,
+        "uniformity_left": 0.1952489597286694,
+        "uniformity_right": 0.19724403580966177,
+        "num_unique_sequences_left": 1655,
+        "num_unique_sequences_right": 1805,
         "filename": "139.xml"
     },
     {
@@ -32726,9 +32770,10 @@
         "num_rests_left": 4,
         "num_rests_right": 4,
         "num_measures": 16,
-        "variance_left": 661.0291216142051,
-        "variance_right": 206.76652847919055,
-        "variance_diff": 454.2625931350145,
+        "uniformity_left": 0.19735959453250002,
+        "uniformity_right": 0.19759662350387613,
+        "num_unique_sequences_left": 280,
+        "num_unique_sequences_right": 311,
         "filename": "14.xml"
     },
     {
@@ -34639,14 +34684,14 @@
         ],
         "key_signature": -1,
         "time_signatures": [
-            "4/8",
-            "3/8",
-            "8/8",
-            "2/4",
-            "5/8",
-            "7/8",
             "9/8",
-            "6/8"
+            "4/8",
+            "2/4",
+            "7/8",
+            "6/8",
+            "8/8",
+            "5/8",
+            "3/8"
         ],
         "tempos": [
             160,
@@ -34659,9 +34704,10 @@
         "num_rests_left": 90,
         "num_rests_right": 87,
         "num_measures": 82,
-        "variance_left": 10036.742317948501,
-        "variance_right": 1482.5688064129956,
-        "variance_diff": 8554.173511535506,
+        "uniformity_left": 0.1911508382786878,
+        "uniformity_right": 0.19402280120302556,
+        "num_unique_sequences_left": 3998,
+        "num_unique_sequences_right": 4364,
         "filename": "140.xml"
     },
     {
@@ -36083,10 +36129,10 @@
         "key_signature": -3,
         "time_signatures": [
             "3/4",
-            "3/8",
             "2/4",
+            "7/8",
             "5/8",
-            "7/8"
+            "3/8"
         ],
         "tempos": [
             144,
@@ -36101,9 +36147,10 @@
         "num_rests_left": 20,
         "num_rests_right": 30,
         "num_measures": 82,
-        "variance_left": 14359.417010680076,
-        "variance_right": 2418.628305182182,
-        "variance_diff": 11940.788705497893,
+        "uniformity_left": 0.1969630335773369,
+        "uniformity_right": 0.19675720828096355,
+        "num_unique_sequences_left": 3300,
+        "num_unique_sequences_right": 3306,
         "filename": "141.xml"
     },
     {
@@ -37641,8 +37688,8 @@
         ],
         "key_signature": -3,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             160,
@@ -37655,9 +37702,10 @@
         "num_rests_left": 26,
         "num_rests_right": 16,
         "num_measures": 103,
-        "variance_left": 5106.330957002983,
-        "variance_right": 4730.676833744141,
-        "variance_diff": 375.65412325884245,
+        "uniformity_left": 0.19460012251691838,
+        "uniformity_right": 0.19203497730862304,
+        "num_unique_sequences_left": 3235,
+        "num_unique_sequences_right": 2585,
         "filename": "142.xml"
     },
     {
@@ -39101,9 +39149,10 @@
         "num_rests_left": 81,
         "num_rests_right": 71,
         "num_measures": 80,
-        "variance_left": 11720.753170265109,
-        "variance_right": 7166.57522515272,
-        "variance_diff": 4554.177945112388,
+        "uniformity_left": 0.1969461118756978,
+        "uniformity_right": 0.19770795361394664,
+        "num_unique_sequences_left": 3874,
+        "num_unique_sequences_right": 3838,
         "filename": "143.xml"
     },
     {
@@ -40614,8 +40663,8 @@
         ],
         "key_signature": -6,
         "time_signatures": [
-            "2/4",
             "4/4",
+            "2/4",
             "3/2"
         ],
         "tempos": [
@@ -40629,9 +40678,10 @@
         "num_rests_left": 68,
         "num_rests_right": 65,
         "num_measures": 70,
-        "variance_left": 73980.03313037085,
-        "variance_right": 13745.457224983009,
-        "variance_diff": 60234.57590538784,
+        "uniformity_left": 0.19716379322885552,
+        "uniformity_right": 0.19826543527915333,
+        "num_unique_sequences_left": 3982,
+        "num_unique_sequences_right": 3944,
         "filename": "144.xml"
     },
     {
@@ -41694,8 +41744,8 @@
         ],
         "key_signature": 2,
         "time_signatures": [
-            "2/4",
-            "4/4"
+            "4/4",
+            "2/4"
         ],
         "tempos": [
             144
@@ -41707,9 +41757,10 @@
         "num_rests_left": 32,
         "num_rests_right": 30,
         "num_measures": 50,
-        "variance_left": 19265.88785810061,
-        "variance_right": 6196.876016962754,
-        "variance_diff": 13069.011841137857,
+        "uniformity_left": 0.19806988324471206,
+        "uniformity_right": 0.19752924920320136,
+        "num_unique_sequences_left": 2788,
+        "num_unique_sequences_right": 2692,
         "filename": "145.xml"
     },
     {
@@ -45722,9 +45773,10 @@
         "num_rests_left": 77,
         "num_rests_right": 101,
         "num_measures": 170,
-        "variance_left": 25386.509827131216,
-        "variance_right": 22985.756056525737,
-        "variance_diff": 2400.753770605479,
+        "uniformity_left": 0.19565486836535245,
+        "uniformity_right": 0.18020683216075511,
+        "num_unique_sequences_left": 6568,
+        "num_unique_sequences_right": 6235,
         "filename": "146.xml"
     },
     {
@@ -47417,8 +47469,8 @@
         ],
         "key_signature": 2,
         "time_signatures": [
-            "5/4",
             "4/4",
+            "5/4",
             "3/2"
         ],
         "tempos": [
@@ -47431,9 +47483,10 @@
         "num_rests_left": 64,
         "num_rests_right": 31,
         "num_measures": 57,
-        "variance_left": 67997.81892915102,
-        "variance_right": 2257.2626419987228,
-        "variance_diff": 65740.5562871523,
+        "uniformity_left": 0.19729759276390613,
+        "uniformity_right": 0.19006686865697595,
+        "num_unique_sequences_left": 4014,
+        "num_unique_sequences_right": 3336,
         "filename": "147.xml"
     },
     {
@@ -49341,9 +49394,10 @@
         "num_rests_left": 21,
         "num_rests_right": 36,
         "num_measures": 60,
-        "variance_left": 39719.3293448522,
-        "variance_right": 9089.502536259934,
-        "variance_diff": 30629.82680859227,
+        "uniformity_left": 0.19702678312485677,
+        "uniformity_right": 0.1927470778354475,
+        "num_unique_sequences_left": 4585,
+        "num_unique_sequences_right": 3540,
         "filename": "148.xml"
     },
     {
@@ -50789,9 +50843,10 @@
         "num_rests_left": 110,
         "num_rests_right": 133,
         "num_measures": 64,
-        "variance_left": 6012.818124679579,
-        "variance_right": 374.18349031988964,
-        "variance_diff": 5638.63463435969,
+        "uniformity_left": 0.19210386190412837,
+        "uniformity_right": 0.19175357447073013,
+        "num_unique_sequences_left": 3282,
+        "num_unique_sequences_right": 3027,
         "filename": "149.xml"
     },
     {
@@ -50927,9 +50982,10 @@
         "num_rests_left": 3,
         "num_rests_right": 3,
         "num_measures": 13,
-        "variance_left": 617.2333283026675,
-        "variance_right": 50.41681566675322,
-        "variance_diff": 566.8165126359143,
+        "uniformity_left": 0.19845178347968329,
+        "uniformity_right": 0.1981281460049009,
+        "num_unique_sequences_left": 259,
+        "num_unique_sequences_right": 257,
         "filename": "15.xml"
     },
     {
@@ -52440,9 +52496,10 @@
         "num_rests_left": 16,
         "num_rests_right": 19,
         "num_measures": 94,
-        "variance_left": 7315.517941618692,
-        "variance_right": 2100.4941806057695,
-        "variance_diff": 5215.0237610129225,
+        "uniformity_left": 0.1960655024530699,
+        "uniformity_right": 0.19566245299348348,
+        "num_unique_sequences_left": 3304,
+        "num_unique_sequences_right": 3068,
         "filename": "150.xml"
     },
     {
@@ -54467,9 +54524,10 @@
         "num_rests_left": 49,
         "num_rests_right": 78,
         "num_measures": 66,
-        "variance_left": 28233.638301384603,
-        "variance_right": 5206.42820453698,
-        "variance_diff": 23027.210096847622,
+        "uniformity_left": 0.1927642795765225,
+        "uniformity_right": 0.195661291239892,
+        "num_unique_sequences_left": 4145,
+        "num_unique_sequences_right": 4572,
         "filename": "151.xml"
     },
     {
@@ -55829,9 +55887,10 @@
         "num_rests_left": 71,
         "num_rests_right": 96,
         "num_measures": 47,
-        "variance_left": 3057.806103646889,
-        "variance_right": 2127.7126999205757,
-        "variance_diff": 930.0934037263132,
+        "uniformity_left": 0.18755746036360982,
+        "uniformity_right": 0.19145512187588887,
+        "num_unique_sequences_left": 2853,
+        "num_unique_sequences_right": 2610,
         "filename": "152.xml"
     },
     {
@@ -58337,9 +58396,10 @@
         "num_rests_left": 91,
         "num_rests_right": 56,
         "num_measures": 97,
-        "variance_left": 20463.31302316777,
-        "variance_right": 3027.819944992322,
-        "variance_diff": 17435.49307817545,
+        "uniformity_left": 0.19157374936785423,
+        "uniformity_right": 0.18766801315184334,
+        "num_unique_sequences_left": 5215,
+        "num_unique_sequences_right": 4232,
         "filename": "153.xml"
     },
     {
@@ -58557,9 +58617,10 @@
         "num_rests_left": 2,
         "num_rests_right": 2,
         "num_measures": 22,
-        "variance_left": 439.6997951902058,
-        "variance_right": 60.42357352446216,
-        "variance_diff": 379.27622166574366,
+        "uniformity_left": 0.1972897488968668,
+        "uniformity_right": 0.19639606339481364,
+        "num_unique_sequences_left": 412,
+        "num_unique_sequences_right": 401,
         "filename": "16.xml"
     },
     {
@@ -58713,9 +58774,10 @@
         "num_rests_left": 4,
         "num_rests_right": 4,
         "num_measures": 16,
-        "variance_left": 301.7528173550735,
-        "variance_right": 88.65453899823869,
-        "variance_diff": 213.09827835683478,
+        "uniformity_left": 0.19675782278790047,
+        "uniformity_right": 0.19752553862292682,
+        "num_unique_sequences_left": 281,
+        "num_unique_sequences_right": 288,
         "filename": "17.xml"
     },
     {
@@ -58833,9 +58895,10 @@
         "num_rests_left": 0,
         "num_rests_right": 0,
         "num_measures": 10,
-        "variance_left": 1350.3531841563363,
-        "variance_right": 337.58829603908384,
-        "variance_diff": 1012.7648881172524,
+        "uniformity_left": 0.19702675585721602,
+        "uniformity_right": 0.19702675585721602,
+        "num_unique_sequences_left": 147,
+        "num_unique_sequences_right": 147,
         "filename": "18.xml"
     },
     {
@@ -59017,9 +59080,10 @@
         "num_rests_left": 0,
         "num_rests_right": 0,
         "num_measures": 13,
-        "variance_left": 1809.5509425618986,
-        "variance_right": 113.0969339101184,
-        "variance_diff": 1696.4540086517802,
+        "uniformity_left": 0.19577564744720088,
+        "uniformity_right": 0.19577564744720088,
+        "num_unique_sequences_left": 302,
+        "num_unique_sequences_right": 302,
         "filename": "19.xml"
     },
     {
@@ -59241,9 +59305,10 @@
         "num_rests_left": 0,
         "num_rests_right": 0,
         "num_measures": 16,
-        "variance_left": 874.2463769253055,
-        "variance_right": 54.64039855783151,
-        "variance_diff": 819.605978367474,
+        "uniformity_left": 0.19537079402035096,
+        "uniformity_right": 0.19537079402035096,
+        "num_unique_sequences_left": 381,
+        "num_unique_sequences_right": 381,
         "filename": "2.xml"
     },
     {
@@ -59395,9 +59460,10 @@
         "num_rests_left": 3,
         "num_rests_right": 3,
         "num_measures": 16,
-        "variance_left": 2276.862767748032,
-        "variance_right": 569.215691937007,
-        "variance_diff": 1707.6470758110252,
+        "uniformity_left": 0.19755570492866634,
+        "uniformity_right": 0.19755570492866634,
+        "num_unique_sequences_left": 290,
+        "num_unique_sequences_right": 290,
         "filename": "20.xml"
     },
     {
@@ -59552,9 +59618,10 @@
         "num_rests_left": 4,
         "num_rests_right": 5,
         "num_measures": 16,
-        "variance_left": 1535.925850797577,
-        "variance_right": 106.36540894482353,
-        "variance_diff": 1429.5604418527535,
+        "uniformity_left": 0.19579142134031527,
+        "uniformity_right": 0.19574111123063487,
+        "num_unique_sequences_left": 283,
+        "num_unique_sequences_right": 281,
         "filename": "21.xml"
     },
     {
@@ -59712,9 +59779,10 @@
         "num_rests_left": 2,
         "num_rests_right": 2,
         "num_measures": 16,
-        "variance_left": 485.3455813029258,
-        "variance_right": 385.3983411663048,
-        "variance_diff": 99.94724013662096,
+        "uniformity_left": 0.19619790051556685,
+        "uniformity_right": 0.19771683346750799,
+        "num_unique_sequences_left": 291,
+        "num_unique_sequences_right": 275,
         "filename": "22.xml"
     },
     {
@@ -59866,9 +59934,10 @@
         "num_rests_left": 5,
         "num_rests_right": 5,
         "num_measures": 12,
-        "variance_left": 252.79220530576941,
-        "variance_right": 62.51822795650593,
-        "variance_diff": 190.27397734926348,
+        "uniformity_left": 0.19468648925367915,
+        "uniformity_right": 0.19536558972368112,
+        "num_unique_sequences_left": 273,
+        "num_unique_sequences_right": 261,
         "filename": "23.xml"
     },
     {
@@ -60081,9 +60150,10 @@
         "num_rests_left": 6,
         "num_rests_right": 5,
         "num_measures": 24,
-        "variance_left": 422.7708738803383,
-        "variance_right": 69.46846818619314,
-        "variance_diff": 353.30240569414514,
+        "uniformity_left": 0.19290395340278063,
+        "uniformity_right": 0.19502750604718935,
+        "num_unique_sequences_left": 374,
+        "num_unique_sequences_right": 356,
         "filename": "24.xml"
     },
     {
@@ -60366,9 +60436,10 @@
         "num_rests_left": 14,
         "num_rests_right": 13,
         "num_measures": 47,
-        "variance_left": 274.2967481248944,
-        "variance_right": 67.05619400963256,
-        "variance_diff": 207.24055411526183,
+        "uniformity_left": 0.19223626906215802,
+        "uniformity_right": 0.1917184624736684,
+        "num_unique_sequences_left": 503,
+        "num_unique_sequences_right": 485,
         "filename": "25.xml"
     },
     {
@@ -60551,9 +60622,10 @@
         "num_rests_left": 2,
         "num_rests_right": 3,
         "num_measures": 16,
-        "variance_left": 601.827370335699,
-        "variance_right": 76.31923671442235,
-        "variance_diff": 525.5081336212767,
+        "uniformity_left": 0.19617330453855997,
+        "uniformity_right": 0.1962718853479193,
+        "num_unique_sequences_left": 311,
+        "num_unique_sequences_right": 321,
         "filename": "26.xml"
     },
     {
@@ -60694,9 +60766,10 @@
         "num_rests_left": 1,
         "num_rests_right": 2,
         "num_measures": 14,
-        "variance_left": 247.07014187451625,
-        "variance_right": 36.715687477211745,
-        "variance_diff": 210.3544543973045,
+        "uniformity_left": 0.19663049102415964,
+        "uniformity_right": 0.19791946459185383,
+        "num_unique_sequences_left": 280,
+        "num_unique_sequences_right": 206,
         "filename": "27.xml"
     },
     {
@@ -60823,9 +60896,10 @@
         "num_rests_left": 2,
         "num_rests_right": 3,
         "num_measures": 14,
-        "variance_left": 507.8365682767248,
-        "variance_right": 304.4598644545638,
-        "variance_diff": 203.376703822161,
+        "uniformity_left": 0.19672696142042811,
+        "uniformity_right": 0.19844959807111673,
+        "num_unique_sequences_left": 216,
+        "num_unique_sequences_right": 218,
         "filename": "28.xml"
     },
     {
@@ -60969,9 +61043,10 @@
         "num_rests_left": 1,
         "num_rests_right": 1,
         "num_measures": 14,
-        "variance_left": 425.3412726412521,
-        "variance_right": 66.99735296724381,
-        "variance_diff": 358.34391967400825,
+        "uniformity_left": 0.19771626753481097,
+        "uniformity_right": 0.1980954184533702,
+        "num_unique_sequences_left": 255,
+        "num_unique_sequences_right": 234,
         "filename": "29.xml"
     },
     {
@@ -61101,9 +61176,10 @@
         "num_rests_left": 0,
         "num_rests_right": 0,
         "num_measures": 12,
-        "variance_left": 432.18878159857826,
-        "variance_right": 108.04719539964441,
-        "variance_diff": 324.14158619893385,
+        "uniformity_left": 0.19781913094243933,
+        "uniformity_right": 0.19781913094243933,
+        "num_unique_sequences_left": 204,
+        "num_unique_sequences_right": 204,
         "filename": "3.xml"
     },
     {
@@ -61325,9 +61401,10 @@
         "num_rests_left": 0,
         "num_rests_right": 2,
         "num_measures": 24,
-        "variance_left": 834.6748595338714,
-        "variance_right": 104.93750191533758,
-        "variance_diff": 729.7373576185339,
+        "uniformity_left": 0.19658113284598516,
+        "uniformity_right": 0.19693713697357787,
+        "num_unique_sequences_left": 410,
+        "num_unique_sequences_right": 413,
         "filename": "30.xml"
     },
     {
@@ -61540,9 +61617,10 @@
         "num_rests_left": 4,
         "num_rests_right": 5,
         "num_measures": 16,
-        "variance_left": 746.5514886842401,
-        "variance_right": 175.04288454478504,
-        "variance_diff": 571.5086041394551,
+        "uniformity_left": 0.19590261906970496,
+        "uniformity_right": 0.19640579996854443,
+        "num_unique_sequences_left": 428,
+        "num_unique_sequences_right": 399,
         "filename": "31.xml"
     },
     {
@@ -61788,9 +61866,10 @@
         "num_rests_left": 10,
         "num_rests_right": 0,
         "num_measures": 14,
-        "variance_left": 1435.1039273488502,
-        "variance_right": 968.6609932039876,
-        "variance_diff": 466.44293414486265,
+        "uniformity_left": 0.19455527541184037,
+        "uniformity_right": 0.19428031997431758,
+        "num_unique_sequences_left": 489,
+        "num_unique_sequences_right": 404,
         "filename": "32.xml"
     },
     {
@@ -62052,9 +62131,10 @@
         "num_rests_left": 14,
         "num_rests_right": 2,
         "num_measures": 15,
-        "variance_left": 2877.6980263523656,
-        "variance_right": 708.4959830406382,
-        "variance_diff": 2169.2020433117273,
+        "uniformity_left": 0.1905833375863455,
+        "uniformity_right": 0.19495334863683483,
+        "num_unique_sequences_left": 497,
+        "num_unique_sequences_right": 436,
         "filename": "33.xml"
     },
     {
@@ -62315,9 +62395,10 @@
         "num_rests_left": 5,
         "num_rests_right": 0,
         "num_measures": 26,
-        "variance_left": 2779.4142428260866,
-        "variance_right": 306.49503242961475,
-        "variance_diff": 2472.919210396472,
+        "uniformity_left": 0.1954436908510119,
+        "uniformity_right": 0.19547107382126072,
+        "num_unique_sequences_left": 514,
+        "num_unique_sequences_right": 447,
         "filename": "34.xml"
     },
     {
@@ -62624,9 +62705,10 @@
         "num_rests_left": 5,
         "num_rests_right": 6,
         "num_measures": 27,
-        "variance_left": 808.3821481372656,
-        "variance_right": 170.12595085123274,
-        "variance_diff": 638.2561972860328,
+        "uniformity_left": 0.19324890223765748,
+        "uniformity_right": 0.19508499981186372,
+        "num_unique_sequences_left": 600,
+        "num_unique_sequences_right": 577,
         "filename": "35.xml"
     },
     {
@@ -62881,9 +62963,10 @@
         "num_rests_left": 7,
         "num_rests_right": 10,
         "num_measures": 30,
-        "variance_left": 1886.12685713044,
-        "variance_right": 574.7855246810261,
-        "variance_diff": 1311.3413324494138,
+        "uniformity_left": 0.19513306800053754,
+        "uniformity_right": 0.1948244525911651,
+        "num_unique_sequences_left": 542,
+        "num_unique_sequences_right": 524,
         "filename": "36.xml"
     },
     {
@@ -63175,9 +63258,10 @@
         "num_rests_left": 8,
         "num_rests_right": 2,
         "num_measures": 32,
-        "variance_left": 1615.0557096224225,
-        "variance_right": 597.9156638889178,
-        "variance_diff": 1017.1400457335046,
+        "uniformity_left": 0.1949925595902989,
+        "uniformity_right": 0.19406284942787874,
+        "num_unique_sequences_left": 576,
+        "num_unique_sequences_right": 547,
         "filename": "37.xml"
     },
     {
@@ -63317,9 +63401,10 @@
         "num_rests_left": 0,
         "num_rests_right": 0,
         "num_measures": 8,
-        "variance_left": 562.6893778343592,
-        "variance_right": 146.79504269091927,
-        "variance_diff": 415.89433514343995,
+        "uniformity_left": 0.19696936581311372,
+        "uniformity_right": 0.19733399859514092,
+        "num_unique_sequences_left": 225,
+        "num_unique_sequences_right": 221,
         "filename": "38.xml"
     },
     {
@@ -63566,9 +63651,10 @@
         "num_rests_left": 3,
         "num_rests_right": 2,
         "num_measures": 11,
-        "variance_left": 881.533691538436,
-        "variance_right": 243.88488568442176,
-        "variance_diff": 637.6488058540142,
+        "uniformity_left": 0.19325316729281838,
+        "uniformity_right": 0.1931072290841586,
+        "num_unique_sequences_left": 424,
+        "num_unique_sequences_right": 392,
         "filename": "39.xml"
     },
     {
@@ -63678,9 +63764,10 @@
         "num_rests_left": 0,
         "num_rests_right": 0,
         "num_measures": 8,
-        "variance_left": 1178.8555632320247,
-        "variance_right": 73.67847270200143,
-        "variance_diff": 1105.1770905300232,
+        "uniformity_left": 0.1974116139050772,
+        "uniformity_right": 0.1974116139050772,
+        "num_unique_sequences_left": 155,
+        "num_unique_sequences_right": 155,
         "filename": "4.xml"
     },
     {
@@ -63970,9 +64057,10 @@
         "num_rests_left": 9,
         "num_rests_right": 1,
         "num_measures": 31,
-        "variance_left": 471.14191984011796,
-        "variance_right": 145.8290526629732,
-        "variance_diff": 325.31286717714477,
+        "uniformity_left": 0.19277840275521074,
+        "uniformity_right": 0.16034604408691616,
+        "num_unique_sequences_left": 548,
+        "num_unique_sequences_right": 67,
         "filename": "40.xml"
     },
     {
@@ -64220,9 +64308,10 @@
         "num_rests_left": 14,
         "num_rests_right": 7,
         "num_measures": 14,
-        "variance_left": 2438.9941834824263,
-        "variance_right": 485.70194118895256,
-        "variance_diff": 1953.2922422934737,
+        "uniformity_left": 0.19597944912299317,
+        "uniformity_right": 0.19154673619356688,
+        "num_unique_sequences_left": 427,
+        "num_unique_sequences_right": 482,
         "filename": "41.xml"
     },
     {
@@ -64601,9 +64690,10 @@
         "num_rests_left": 5,
         "num_rests_right": 9,
         "num_measures": 39,
-        "variance_left": 686.2835439587899,
-        "variance_right": 262.4533158710419,
-        "variance_diff": 423.83022808774797,
+        "uniformity_left": 0.18192290904510422,
+        "uniformity_right": 0.19432554706917415,
+        "num_unique_sequences_left": 413,
+        "num_unique_sequences_right": 658,
         "filename": "42.xml"
     },
     {
@@ -64930,9 +65020,10 @@
         "num_rests_left": 5,
         "num_rests_right": 5,
         "num_measures": 27,
-        "variance_left": 2087.4540203854904,
-        "variance_right": 537.0001916398166,
-        "variance_diff": 1550.4538287456737,
+        "uniformity_left": 0.1910155960115929,
+        "uniformity_right": 0.1922130038338674,
+        "num_unique_sequences_left": 550,
+        "num_unique_sequences_right": 563,
         "filename": "45.xml"
     },
     {
@@ -65165,9 +65256,10 @@
         "num_rests_left": 11,
         "num_rests_right": 14,
         "num_measures": 28,
-        "variance_left": 1711.8681400350747,
-        "variance_right": 418.6304859611833,
-        "variance_diff": 1293.2376540738915,
+        "uniformity_left": 0.19609857255893337,
+        "uniformity_right": 0.1968796364371605,
+        "num_unique_sequences_left": 538,
+        "num_unique_sequences_right": 532,
         "filename": "46.xml"
     },
     {
@@ -65602,9 +65694,10 @@
         "num_rests_left": 7,
         "num_rests_right": 2,
         "num_measures": 34,
-        "variance_left": 1169.142325550472,
-        "variance_right": 367.0371540202522,
-        "variance_diff": 802.1051715302196,
+        "uniformity_left": 0.19082310066318534,
+        "uniformity_right": 0.18552074994316403,
+        "num_unique_sequences_left": 714,
+        "num_unique_sequences_right": 509,
         "filename": "47.xml"
     },
     {
@@ -66068,9 +66161,10 @@
         "num_rests_left": 13,
         "num_rests_right": 7,
         "num_measures": 33,
-        "variance_left": 3048.5375889825473,
-        "variance_right": 562.4755175525696,
-        "variance_diff": 2486.0620714299775,
+        "uniformity_left": 0.19560657108358037,
+        "uniformity_right": 0.18413123520987484,
+        "num_unique_sequences_left": 902,
+        "num_unique_sequences_right": 702,
         "filename": "48.xml"
     },
     {
@@ -66264,9 +66358,10 @@
         "num_rests_left": 16,
         "num_rests_right": 16,
         "num_measures": 10,
-        "variance_left": 1210.8599914064607,
-        "variance_right": 108.23093185991708,
-        "variance_diff": 1102.6290595465437,
+        "uniformity_left": 0.19532557436294837,
+        "uniformity_right": 0.1954813061656454,
+        "num_unique_sequences_left": 448,
+        "num_unique_sequences_right": 447,
         "filename": "49.xml"
     },
     {
@@ -66508,9 +66603,10 @@
         "num_rests_left": 0,
         "num_rests_right": 0,
         "num_measures": 21,
-        "variance_left": 720.4973344117689,
-        "variance_right": 45.03108340073547,
-        "variance_diff": 675.4662510110334,
+        "uniformity_left": 0.19662983839928141,
+        "uniformity_right": 0.19710773323014297,
+        "num_unique_sequences_left": 442,
+        "num_unique_sequences_right": 450,
         "filename": "5.xml"
     },
     {
@@ -66801,9 +66897,10 @@
         "num_rests_left": 4,
         "num_rests_right": 5,
         "num_measures": 18,
-        "variance_left": 1300.9908863595733,
-        "variance_right": 460.3042692025588,
-        "variance_diff": 840.6866171570146,
+        "uniformity_left": 0.19522831731651488,
+        "uniformity_right": 0.19612774149295606,
+        "num_unique_sequences_left": 561,
+        "num_unique_sequences_right": 535,
         "filename": "50.xml"
     },
     {
@@ -67301,9 +67398,10 @@
         "num_rests_left": 15,
         "num_rests_right": 11,
         "num_measures": 33,
-        "variance_left": 1616.5196948105067,
-        "variance_right": 177.00753235848737,
-        "variance_diff": 1439.5121624520193,
+        "uniformity_left": 0.1927008645788092,
+        "uniformity_right": 0.19291212753796647,
+        "num_unique_sequences_left": 830,
+        "num_unique_sequences_right": 773,
         "filename": "51.xml"
     },
     {
@@ -67435,9 +67533,10 @@
         "num_rests_left": 8,
         "num_rests_right": 14,
         "num_measures": 8,
-        "variance_left": 39477.606388477434,
-        "variance_right": 440.52247349595984,
-        "variance_diff": 39037.08391498147,
+        "uniformity_left": 0.19675006126243677,
+        "uniformity_right": 0.19123593692340213,
+        "num_unique_sequences_left": 352,
+        "num_unique_sequences_right": 186,
         "filename": "52.xml"
     },
     {
@@ -67850,9 +67949,10 @@
         "num_rests_left": 18,
         "num_rests_right": 8,
         "num_measures": 32,
-        "variance_left": 1201.7854325544906,
-        "variance_right": 1112.0967461875302,
-        "variance_diff": 89.68868636696038,
+        "uniformity_left": 0.1957921066189346,
+        "uniformity_right": 0.19500338682691978,
+        "num_unique_sequences_left": 723,
+        "num_unique_sequences_right": 914,
         "filename": "53.xml"
     },
     {
@@ -68078,9 +68178,10 @@
         "num_rests_left": 16,
         "num_rests_right": 16,
         "num_measures": 11,
-        "variance_left": 291.57359283484936,
-        "variance_right": 33.174847974971186,
-        "variance_diff": 258.3987448598782,
+        "uniformity_left": 0.19605034779948882,
+        "uniformity_right": 0.19674271561681222,
+        "num_unique_sequences_left": 501,
+        "num_unique_sequences_right": 517,
         "filename": "54.xml"
     },
     {
@@ -68281,9 +68382,10 @@
         "num_rests_left": 8,
         "num_rests_right": 8,
         "num_measures": 12,
-        "variance_left": 3493.7748986291394,
-        "variance_right": 648.7248346001958,
-        "variance_diff": 2845.050064028944,
+        "uniformity_left": 0.19685897787206577,
+        "uniformity_right": 0.1969111686035789,
+        "num_unique_sequences_left": 437,
+        "num_unique_sequences_right": 428,
         "filename": "56.xml"
     },
     {
@@ -68862,9 +68964,10 @@
         "num_rests_left": 18,
         "num_rests_right": 19,
         "num_measures": 44,
-        "variance_left": 2793.3541319627816,
-        "variance_right": 562.3866003422933,
-        "variance_diff": 2230.9675316204884,
+        "uniformity_left": 0.19655610320211425,
+        "uniformity_right": 0.19585023313980857,
+        "num_unique_sequences_left": 1355,
+        "num_unique_sequences_right": 1337,
         "filename": "57.xml"
     },
     {
@@ -69167,9 +69270,10 @@
         "num_rests_left": 5,
         "num_rests_right": 4,
         "num_measures": 19,
-        "variance_left": 2252.463853202383,
-        "variance_right": 530.9830504356554,
-        "variance_diff": 1721.4808027667273,
+        "uniformity_left": 0.19473576633961184,
+        "uniformity_right": 0.1958294597592147,
+        "num_unique_sequences_left": 523,
+        "num_unique_sequences_right": 582,
         "filename": "58.xml"
     },
     {
@@ -69433,9 +69537,10 @@
         "num_rests_left": 3,
         "num_rests_right": 5,
         "num_measures": 18,
-        "variance_left": 1266.153609524215,
-        "variance_right": 286.5043587915164,
-        "variance_diff": 979.6492507326986,
+        "uniformity_left": 0.19609006575735274,
+        "uniformity_right": 0.19735046761934905,
+        "num_unique_sequences_left": 606,
+        "num_unique_sequences_right": 448,
         "filename": "59.xml"
     },
     {
@@ -69547,9 +69652,10 @@
         "num_rests_left": 1,
         "num_rests_right": 1,
         "num_measures": 9,
-        "variance_left": 452.3869029248649,
-        "variance_right": 28.274181432803978,
-        "variance_diff": 424.1127214920609,
+        "uniformity_left": 0.19764889466577643,
+        "uniformity_right": 0.19764889466577643,
+        "num_unique_sequences_left": 177,
+        "num_unique_sequences_right": 177,
         "filename": "6.xml"
     },
     {
@@ -70037,8 +70143,8 @@
         ],
         "key_signature": 3,
         "time_signatures": [
-            "1/2",
-            "2/2"
+            "2/2",
+            "1/2"
         ],
         "tempos": [
             112
@@ -70050,9 +70156,10 @@
         "num_rests_left": 5,
         "num_rests_right": 3,
         "num_measures": 33,
-        "variance_left": 3188.5423955457736,
-        "variance_right": 360.29909700864596,
-        "variance_diff": 2828.243298537128,
+        "uniformity_left": 0.19544013152410628,
+        "uniformity_right": 0.19474903488428313,
+        "num_unique_sequences_left": 1036,
+        "num_unique_sequences_right": 945,
         "filename": "60.xml"
     },
     {
@@ -70465,9 +70572,10 @@
         "num_rests_left": 16,
         "num_rests_right": 11,
         "num_measures": 35,
-        "variance_left": 4076.0437312422605,
-        "variance_right": 1145.071358309596,
-        "variance_diff": 2930.9723729326643,
+        "uniformity_left": 0.19443156333745762,
+        "uniformity_right": 0.1886164245543074,
+        "num_unique_sequences_left": 846,
+        "num_unique_sequences_right": 743,
         "filename": "61.xml"
     },
     {
@@ -71012,9 +71120,10 @@
         "num_rests_left": 9,
         "num_rests_right": 6,
         "num_measures": 40,
-        "variance_left": 1791.490583122594,
-        "variance_right": 1008.3432489673971,
-        "variance_diff": 783.1473341551969,
+        "uniformity_left": 0.1957919297272812,
+        "uniformity_right": 0.19539269854119612,
+        "num_unique_sequences_left": 1152,
+        "num_unique_sequences_right": 1139,
         "filename": "62.xml"
     },
     {
@@ -71372,9 +71481,10 @@
         "num_rests_left": 18,
         "num_rests_right": 14,
         "num_measures": 17,
-        "variance_left": 809.8267636391496,
-        "variance_right": 158.59578377522814,
-        "variance_diff": 651.2309798639214,
+        "uniformity_left": 0.19000013415937655,
+        "uniformity_right": 0.17990397571730232,
+        "num_unique_sequences_left": 629,
+        "num_unique_sequences_right": 563,
         "filename": "63.xml"
     },
     {
@@ -71743,9 +71853,10 @@
         "num_rests_left": 0,
         "num_rests_right": 1,
         "num_measures": 23,
-        "variance_left": 2587.511362126813,
-        "variance_right": 788.071390609336,
-        "variance_diff": 1799.4399715174768,
+        "uniformity_left": 0.1910455753756686,
+        "uniformity_right": 0.19430347511839874,
+        "num_unique_sequences_left": 620,
+        "num_unique_sequences_right": 650,
         "filename": "64.xml"
     },
     {
@@ -72232,9 +72343,10 @@
         "num_rests_left": 13,
         "num_rests_right": 14,
         "num_measures": 30,
-        "variance_left": 1582.0975342489694,
-        "variance_right": 490.2846285543579,
-        "variance_diff": 1091.8129056946116,
+        "uniformity_left": 0.19239210084205868,
+        "uniformity_right": 0.19383336979281976,
+        "num_unique_sequences_left": 925,
+        "num_unique_sequences_right": 935,
         "filename": "66.xml"
     },
     {
@@ -72475,9 +72587,10 @@
         "num_rests_left": 1,
         "num_rests_right": 0,
         "num_measures": 16,
-        "variance_left": 1188.6101513012034,
-        "variance_right": 171.82337098641102,
-        "variance_diff": 1016.7867803147924,
+        "uniformity_left": 0.19461534682536402,
+        "uniformity_right": 0.19524293389699943,
+        "num_unique_sequences_left": 440,
+        "num_unique_sequences_right": 409,
         "filename": "67.xml"
     },
     {
@@ -73530,9 +73643,10 @@
         "num_rests_left": 31,
         "num_rests_right": 31,
         "num_measures": 40,
-        "variance_left": 3389.3966391198096,
-        "variance_right": 384.3919248025786,
-        "variance_diff": 3005.004714317231,
+        "uniformity_left": 0.18825539067656383,
+        "uniformity_right": 0.18490828398713183,
+        "num_unique_sequences_left": 1467,
+        "num_unique_sequences_right": 1142,
         "filename": "69.xml"
     },
     {
@@ -73662,9 +73776,10 @@
         "num_rests_left": 2,
         "num_rests_right": 2,
         "num_measures": 14,
-        "variance_left": 507.8365682767248,
-        "variance_right": 126.95914206918127,
-        "variance_diff": 380.8774262075435,
+        "uniformity_left": 0.19672696142042811,
+        "uniformity_right": 0.19672696142042811,
+        "num_unique_sequences_left": 216,
+        "num_unique_sequences_right": 216,
         "filename": "7.xml"
     },
     {
@@ -74066,9 +74181,10 @@
         "num_rests_left": 10,
         "num_rests_right": 10,
         "num_measures": 24,
-        "variance_left": 626.0869279008355,
-        "variance_right": 356.5592790601727,
-        "variance_diff": 269.5276488406628,
+        "uniformity_left": 0.19400793969377259,
+        "uniformity_right": 0.1933778352133671,
+        "num_unique_sequences_left": 772,
+        "num_unique_sequences_right": 784,
         "filename": "70.xml"
     },
     {
@@ -74833,9 +74949,10 @@
         "num_rests_left": 26,
         "num_rests_right": 24,
         "num_measures": 38,
-        "variance_left": 876.2172138169996,
-        "variance_right": 346.5708208357888,
-        "variance_diff": 529.6463929812107,
+        "uniformity_left": 0.1857995909033377,
+        "uniformity_right": 0.19182540666144526,
+        "num_unique_sequences_left": 1222,
+        "num_unique_sequences_right": 1605,
         "filename": "71.xml"
     },
     {
@@ -75204,9 +75321,10 @@
         "num_rests_left": 9,
         "num_rests_right": 8,
         "num_measures": 24,
-        "variance_left": 5649.322472098121,
-        "variance_right": 3126.9934832595122,
-        "variance_diff": 2522.3289888386084,
+        "uniformity_left": 0.1974417447909773,
+        "uniformity_right": 0.1973098903199723,
+        "num_unique_sequences_left": 839,
+        "num_unique_sequences_right": 836,
         "filename": "72.xml"
     },
     {
@@ -76125,9 +76243,10 @@
         "num_rests_left": 7,
         "num_rests_right": 14,
         "num_measures": 29,
-        "variance_left": 6263.824168545887,
-        "variance_right": 579.8918198613218,
-        "variance_diff": 5683.932348684565,
+        "uniformity_left": 0.19312789389528914,
+        "uniformity_right": 0.19101484030454938,
+        "num_unique_sequences_left": 1563,
+        "num_unique_sequences_right": 1427,
         "filename": "73.xml"
     },
     {
@@ -76587,9 +76706,10 @@
         "num_rests_left": 9,
         "num_rests_right": 15,
         "num_measures": 34,
-        "variance_left": 4823.075604047718,
-        "variance_right": 526.6686590623675,
-        "variance_diff": 4296.4069449853505,
+        "uniformity_left": 0.19233437805811435,
+        "uniformity_right": 0.19663916937099185,
+        "num_unique_sequences_left": 827,
+        "num_unique_sequences_right": 824,
         "filename": "74.xml"
     },
     {
@@ -77025,8 +77145,8 @@
         ],
         "key_signature": 0,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             76
@@ -77038,9 +77158,10 @@
         "num_rests_left": 6,
         "num_rests_right": 8,
         "num_measures": 30,
-        "variance_left": 882.3187193650399,
-        "variance_right": 220.9184288642955,
-        "variance_diff": 661.4002905007444,
+        "uniformity_left": 0.19577659812217632,
+        "uniformity_right": 0.19650180360187883,
+        "num_unique_sequences_left": 960,
+        "num_unique_sequences_right": 951,
         "filename": "75.xml"
     },
     {
@@ -77312,9 +77433,10 @@
         "num_rests_left": 8,
         "num_rests_right": 6,
         "num_measures": 20,
-        "variance_left": 1321.6821869822709,
-        "variance_right": 313.2166629392252,
-        "variance_diff": 1008.4655240430457,
+        "uniformity_left": 0.1945711486414604,
+        "uniformity_right": 0.1929435859019677,
+        "num_unique_sequences_left": 488,
+        "num_unique_sequences_right": 454,
         "filename": "76.xml"
     },
     {
@@ -77819,8 +77941,8 @@
         ],
         "key_signature": 0,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             72
@@ -77832,9 +77954,10 @@
         "num_rests_left": 3,
         "num_rests_right": 4,
         "num_measures": 18,
-        "variance_left": 4549.020747663119,
-        "variance_right": 309.1690214669615,
-        "variance_diff": 4239.851726196158,
+        "uniformity_left": 0.1942559577367431,
+        "uniformity_right": 0.19509192738112782,
+        "num_unique_sequences_left": 835,
+        "num_unique_sequences_right": 996,
         "filename": "77.xml"
     },
     {
@@ -78188,9 +78311,10 @@
         "num_rests_left": 2,
         "num_rests_right": 10,
         "num_measures": 30,
-        "variance_left": 6630.388884447504,
-        "variance_right": 594.0446924720163,
-        "variance_diff": 6036.344191975488,
+        "uniformity_left": 0.19281611252349262,
+        "uniformity_right": 0.19715958793703206,
+        "num_unique_sequences_left": 568,
+        "num_unique_sequences_right": 684,
         "filename": "78.xml"
     },
     {
@@ -78772,9 +78896,10 @@
         "num_rests_left": 4,
         "num_rests_right": 2,
         "num_measures": 17,
-        "variance_left": 2409.4318621999964,
-        "variance_right": 605.1981774631805,
-        "variance_diff": 1804.233684736816,
+        "uniformity_left": 0.1941151271825038,
+        "uniformity_right": 0.19442895846354696,
+        "num_unique_sequences_left": 1113,
+        "num_unique_sequences_right": 1130,
         "filename": "79.xml"
     },
     {
@@ -78920,9 +79045,10 @@
         "num_rests_left": 4,
         "num_rests_right": 4,
         "num_measures": 16,
-        "variance_left": 917.2185318226605,
-        "variance_right": 229.30463295566508,
-        "variance_diff": 687.9138988669954,
+        "uniformity_left": 0.1978230534464138,
+        "uniformity_right": 0.1978230534464138,
+        "num_unique_sequences_left": 260,
+        "num_unique_sequences_right": 260,
         "filename": "8.xml"
     },
     {
@@ -79204,9 +79330,10 @@
         "num_rests_left": 4,
         "num_rests_right": 2,
         "num_measures": 22,
-        "variance_left": 3445.4701626594365,
-        "variance_right": 633.5089103106833,
-        "variance_diff": 2811.961252348753,
+        "uniformity_left": 0.1974375915349777,
+        "uniformity_right": 0.1950607736887386,
+        "num_unique_sequences_left": 494,
+        "num_unique_sequences_right": 475,
         "filename": "80.xml"
     },
     {
@@ -79651,8 +79778,8 @@
         ],
         "key_signature": 1,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             76
@@ -79664,9 +79791,10 @@
         "num_rests_left": 4,
         "num_rests_right": 8,
         "num_measures": 35,
-        "variance_left": 2983.4421368013323,
-        "variance_right": 1180.8046537458267,
-        "variance_diff": 1802.6374830555055,
+        "uniformity_left": 0.19788573842201085,
+        "uniformity_right": 0.19810112422090742,
+        "num_unique_sequences_left": 1007,
+        "num_unique_sequences_right": 1026,
         "filename": "81.xml"
     },
     {
@@ -80244,10 +80372,10 @@
         ],
         "key_signature": -1,
         "time_signatures": [
-            "3/4",
+            "7/8",
             "2/4",
-            "3/8",
-            "7/8"
+            "3/4",
+            "3/8"
         ],
         "tempos": [
             114
@@ -80259,9 +80387,10 @@
         "num_rests_left": 13,
         "num_rests_right": 11,
         "num_measures": 25,
-        "variance_left": 1049.376812278218,
-        "variance_right": 274.64213631852516,
-        "variance_diff": 774.7346759596928,
+        "uniformity_left": 0.18808046738361262,
+        "uniformity_right": 0.1914321196892501,
+        "num_unique_sequences_left": 980,
+        "num_unique_sequences_right": 1017,
         "filename": "82.xml"
     },
     {
@@ -80880,9 +81009,10 @@
         "num_rests_left": 5,
         "num_rests_right": 6,
         "num_measures": 18,
-        "variance_left": 16878.964090721376,
-        "variance_right": 1888.673411652962,
-        "variance_diff": 14990.290679068414,
+        "uniformity_left": 0.19054304957030324,
+        "uniformity_right": 0.1935956400989625,
+        "num_unique_sequences_left": 1013,
+        "num_unique_sequences_right": 1129,
         "filename": "83.xml"
     },
     {
@@ -81372,9 +81502,10 @@
         "num_rests_left": 44,
         "num_rests_right": 40,
         "num_measures": 28,
-        "variance_left": 3941.9897616601806,
-        "variance_right": 1521.4935241894495,
-        "variance_diff": 2420.496237470731,
+        "uniformity_left": 0.19340839260619236,
+        "uniformity_right": 0.1938274391385003,
+        "num_unique_sequences_left": 1391,
+        "num_unique_sequences_right": 1065,
         "filename": "84.xml"
     },
     {
@@ -82100,9 +82231,10 @@
         "num_rests_left": 68,
         "num_rests_right": 65,
         "num_measures": 62,
-        "variance_left": 5496.450548205693,
-        "variance_right": 1010.6783838220321,
-        "variance_diff": 4485.772164383661,
+        "uniformity_left": 0.19213154896454085,
+        "uniformity_right": 0.19515760909520657,
+        "num_unique_sequences_left": 1883,
+        "num_unique_sequences_right": 1974,
         "filename": "85.xml"
     },
     {
@@ -82602,9 +82734,10 @@
         "num_rests_left": 9,
         "num_rests_right": 12,
         "num_measures": 36,
-        "variance_left": 1305.53695515321,
-        "variance_right": 502.45422169446874,
-        "variance_diff": 803.0827334587414,
+        "uniformity_left": 0.19482343725885454,
+        "uniformity_right": 0.19541583228917458,
+        "num_unique_sequences_left": 1134,
+        "num_unique_sequences_right": 1032,
         "filename": "86.xml"
     },
     {
@@ -83209,8 +83342,8 @@
         ],
         "key_signature": 0,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             112,
@@ -83224,9 +83357,10 @@
         "num_rests_left": 27,
         "num_rests_right": 36,
         "num_measures": 69,
-        "variance_left": 3230.0461704870845,
-        "variance_right": 1614.4556433019711,
-        "variance_diff": 1615.5905271851134,
+        "uniformity_left": 0.19715218965830852,
+        "uniformity_right": 0.19795061630241703,
+        "num_unique_sequences_left": 1575,
+        "num_unique_sequences_right": 1710,
         "filename": "87.xml"
     },
     {
@@ -83601,9 +83735,10 @@
         "num_rests_left": 13,
         "num_rests_right": 6,
         "num_measures": 32,
-        "variance_left": 1261.0737813080275,
-        "variance_right": 689.6176555405063,
-        "variance_diff": 571.4561257675211,
+        "uniformity_left": 0.1980573752224094,
+        "uniformity_right": 0.19470589761731097,
+        "num_unique_sequences_left": 754,
+        "num_unique_sequences_right": 747,
         "filename": "88.xml"
     },
     {
@@ -83926,9 +84061,10 @@
         "num_rests_left": 11,
         "num_rests_right": 13,
         "num_measures": 21,
-        "variance_left": 2466.3425201177256,
-        "variance_right": 749.7613454842656,
-        "variance_diff": 1716.58117463346,
+        "uniformity_left": 0.1969939737171671,
+        "uniformity_right": 0.1960628705471064,
+        "num_unique_sequences_left": 744,
+        "num_unique_sequences_right": 787,
         "filename": "89.xml"
     },
     {
@@ -84088,9 +84224,10 @@
         "num_rests_left": 1,
         "num_rests_right": 1,
         "num_measures": 14,
-        "variance_left": 247.07014187451625,
-        "variance_right": 61.76753546862898,
-        "variance_diff": 185.30260640588727,
+        "uniformity_left": 0.19663049102415964,
+        "uniformity_right": 0.19663049102415964,
+        "num_unique_sequences_left": 280,
+        "num_unique_sequences_right": 280,
         "filename": "9.xml"
     },
     {
@@ -84597,9 +84734,10 @@
         "num_rests_left": 8,
         "num_rests_right": 7,
         "num_measures": 26,
-        "variance_left": 5200.465424811651,
-        "variance_right": 3348.66300623344,
-        "variance_diff": 1851.8024185782115,
+        "uniformity_left": 0.19608202729027535,
+        "uniformity_right": 0.196032984123235,
+        "num_unique_sequences_left": 1237,
+        "num_unique_sequences_right": 802,
         "filename": "90.xml"
     },
     {
@@ -84977,8 +85115,8 @@
         ],
         "key_signature": -4,
         "time_signatures": [
-            "3/4",
-            "4/4"
+            "4/4",
+            "3/4"
         ],
         "tempos": [
             72
@@ -84990,9 +85128,10 @@
         "num_rests_left": 12,
         "num_rests_right": 6,
         "num_measures": 17,
-        "variance_left": 4229.833245677832,
-        "variance_right": 1255.545086891897,
-        "variance_diff": 2974.2881587859347,
+        "uniformity_left": 0.19654382490129202,
+        "uniformity_right": 0.19923859078127265,
+        "num_unique_sequences_left": 845,
+        "num_unique_sequences_right": 923,
         "filename": "91.xml"
     },
     {
@@ -85816,8 +85955,8 @@
         ],
         "key_signature": 6,
         "time_signatures": [
-            "2/4",
-            "4/4"
+            "4/4",
+            "2/4"
         ],
         "tempos": [
             138
@@ -85829,9 +85968,10 @@
         "num_rests_left": 36,
         "num_rests_right": 22,
         "num_measures": 33,
-        "variance_left": 3551.7154866188316,
-        "variance_right": 215.42232678024388,
-        "variance_diff": 3336.2931598385876,
+        "uniformity_left": 0.19499154852975234,
+        "uniformity_right": 0.1884777759726244,
+        "num_unique_sequences_left": 1994,
+        "num_unique_sequences_right": 1539,
         "filename": "92.xml"
     },
     {
@@ -86167,9 +86307,9 @@
         ],
         "key_signature": 0,
         "time_signatures": [
-            "3/4",
             "2/4",
-            "5/8"
+            "5/8",
+            "3/4"
         ],
         "tempos": [
             66
@@ -86181,9 +86321,10 @@
         "num_rests_left": 4,
         "num_rests_right": 4,
         "num_measures": 16,
-        "variance_left": 4551.380424484682,
-        "variance_right": 626.1394851305936,
-        "variance_diff": 3925.240939354089,
+        "uniformity_left": 0.1978156947076486,
+        "uniformity_right": 0.19800253390766026,
+        "num_unique_sequences_left": 768,
+        "num_unique_sequences_right": 754,
         "filename": "93.xml"
     },
     {
@@ -86562,8 +86703,8 @@
         ],
         "key_signature": -1,
         "time_signatures": [
-            "3/4",
-            "2/4"
+            "2/4",
+            "3/4"
         ],
         "tempos": [
             96
@@ -86575,9 +86716,10 @@
         "num_rests_left": 11,
         "num_rests_right": 19,
         "num_measures": 34,
-        "variance_left": 10758.458733285175,
-        "variance_right": 1332.929995409113,
-        "variance_diff": 9425.528737876062,
+        "uniformity_left": 0.1974670320684922,
+        "uniformity_right": 0.19888696345713308,
+        "num_unique_sequences_left": 827,
+        "num_unique_sequences_right": 1063,
         "filename": "94.xml"
     },
     {
@@ -86965,9 +87107,10 @@
         "num_rests_left": 1,
         "num_rests_right": 3,
         "num_measures": 16,
-        "variance_left": 1795.3264268686642,
-        "variance_right": 345.13739290464974,
-        "variance_diff": 1450.1890339640145,
+        "uniformity_left": 0.19433003120316206,
+        "uniformity_right": 0.19457241927056781,
+        "num_unique_sequences_left": 211,
+        "num_unique_sequences_right": 977,
         "filename": "95.xml"
     },
     {
@@ -87503,9 +87646,10 @@
         "num_rests_left": 13,
         "num_rests_right": 12,
         "num_measures": 34,
-        "variance_left": 3382.6343036995595,
-        "variance_right": 643.1464265817364,
-        "variance_diff": 2739.4878771178232,
+        "uniformity_left": 0.19639539113446491,
+        "uniformity_right": 0.19594149281561196,
+        "num_unique_sequences_left": 1155,
+        "num_unique_sequences_right": 1158,
         "filename": "96.xml"
     },
     {
@@ -88133,9 +88277,10 @@
         "num_rests_left": 31,
         "num_rests_right": 7,
         "num_measures": 37,
-        "variance_left": 1530.8328902397714,
-        "variance_right": 1219.5689263490942,
-        "variance_diff": 311.26396389067713,
+        "uniformity_left": 0.1952394339836712,
+        "uniformity_right": 0.1928608169624942,
+        "num_unique_sequences_left": 1133,
+        "num_unique_sequences_right": 1281,
         "filename": "97.xml"
     },
     {
@@ -88462,9 +88607,10 @@
         "num_rests_left": 3,
         "num_rests_right": 4,
         "num_measures": 29,
-        "variance_left": 7010.638354485659,
-        "variance_right": 253.55599312387344,
-        "variance_diff": 6757.082361361786,
+        "uniformity_left": 0.19789287943271602,
+        "uniformity_right": 0.196923831363967,
+        "num_unique_sequences_left": 685,
+        "num_unique_sequences_right": 635,
         "filename": "98.xml"
     },
     {
@@ -88835,9 +88981,10 @@
         "num_rests_left": 6,
         "num_rests_right": 7,
         "num_measures": 23,
-        "variance_left": 1894.6802805077525,
-        "variance_right": 910.7015920792923,
-        "variance_diff": 983.9786884284603,
+        "uniformity_left": 0.19759758806845737,
+        "uniformity_right": 0.19532589830734762,
+        "num_unique_sequences_left": 683,
+        "num_unique_sequences_right": 911,
         "filename": "99.xml"
     }
 ]
